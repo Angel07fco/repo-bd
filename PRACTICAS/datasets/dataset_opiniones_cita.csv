@@ -1,0 +1,946 @@
+FechaVisita,TipoServicio,TiempoEspera,DuracionAtencion,CostoServicio,PersonalAtencion,CalidadAtencion,Instalaciones,Comunicacion,FacilidadPago,ExperienciaCliente,Recomendaciones,SatisfaccionCliente,NivelSatisfaccion
+1762992000,Cirugia,47,158,1191,Eddi,2,3,5,4,Pesimo,Si,2,Insatisfecho
+1717977600,Consulta,8,31,481,Eddi,3,4,4,2,Regular,No,5,Insatisfecho
+1758672000,Consulta,32,80,1892,Eddi,3,3,4,3,Buena,Si,2,Insatisfecho
+1765065600,Desparasitacion,6,55,625,Eddi,3,5,1,2,Buena,Si,3,Insatisfecho
+1776211200,Desparasitacion,38,104,4985,Eddi,3,2,2,4,Pesima,Si,5,Insatisfecho
+1779926400,Consulta,21,20,250,Eddi,5,1,2,5,Mala,Si,2,Insatisfecho
+1746230400,Consulta,30,89,3098,Eddi,3,2,3,4,Buena,Si,2,Insatisfecho
+1756252800,Cirugia,44,43,3422,Eddi,3,3,2,5,Mala,No,3,Insatisfecho
+1743897600,Consulta,14,87,1800,Eddi,3,1,1,2,Buena,No,3,Insatisfecho
+1764720000,Consulta,23,134,4271,Eddi,1,1,5,1,Pesima,No,4,Insatisfecho
+1739664000,Vacunacion,36,93,773,Eddi,4,4,4,3,Regular,No,3,Insatisfecho
+1744761600,Desparasitacion,56,78,2860,Eddi,4,3,5,2,Mala,No,1,Insatisfecho
+1764288000,Vacunacion,37,94,963,Eddi,1,1,1,4,Pesimo,No,4,Insatisfecho
+1777766400,Cirugia,54,21,1277,Eddi,3,2,1,4,Pesimo,No,5,Insatisfecho
+1712966400,Desparasitacion,25,68,972,Eddi,2,1,1,2,Mala,Si,4,Insatisfecho
+1726617600,Vacunacion,38,111,2402,Eddi,4,2,5,2,Buena,Si,3,Insatisfecho
+1751068800,Consulta,27,118,3048,Eddi,3,1,2,5,Pesimo,Si,4,Insatisfecho
+1762646400,Vacunacion,28,58,3184,Eddi,5,5,3,3,Pesima,Si,1,Insatisfecho
+1714608000,Vacunacion,37,169,2229,Eddi,1,4,5,2,Pesima,No,1,Insatisfecho
+1760313600,Desparasitacion,37,146,2516,Eddi,2,1,4,2,Buena,No,4,Insatisfecho
+1720569600,Cirugia,31,93,187,Eddi,4,4,2,3,Regular,Si,3,Insatisfecho
+1755388800,Desparasitacion,53,133,3289,Eddi,1,3,3,5,Buena,No,1,Insatisfecho
+1717113600,Cirugia,27,31,3012,Eddi,5,1,2,2,Pesima,No,3,Insatisfecho
+1778025600,Cirugia,48,105,745,Eddi,3,2,5,3,Pesimo,Si,4,Insatisfecho
+1767916800,Desparasitacion,54,95,4204,Eddi,3,2,3,1,Mala,Si,3,Insatisfecho
+1731196800,Cirugia,42,71,3917,Eddi,3,5,2,5,Buena,Si,4,Insatisfecho
+1784851200,Consulta,47,61,2357,Eddi,1,2,2,3,Buena,No,4,Insatisfecho
+1732752000,Desparasitacion,24,21,525,Eddi,1,4,1,3,Buena,No,1,Insatisfecho
+1779321600,Desparasitacion,16,40,74,Eddi,4,4,2,3,Buena,Si,5,Insatisfecho
+1711670400,Desparasitacion,7,124,72,Eddi,3,5,2,4,Pesimo,Si,1,Insatisfecho
+1781654400,Cirugia,11,112,2065,Eddi,1,2,1,4,Mala,Si,1,Insatisfecho
+1734220800,Cirugia,14,46,3250,Eddi,5,5,3,3,Regular,No,4,Insatisfecho
+1728432000,Vacunacion,10,42,4343,Eddi,5,4,2,4,Pesima,No,2,Insatisfecho
+1747008000,Desparasitacion,10,111,2574,Eddi,1,2,1,2,Regular,Si,2,Insatisfecho
+1739059200,Desparasitacion,29,175,2376,Eddi,1,5,2,1,Mala,Si,3,Insatisfecho
+1759881600,Consulta,14,150,436,Eddi,4,3,1,3,Mala,Si,2,Insatisfecho
+1783468800,Desparasitacion,56,147,3928,Eddi,1,5,1,1,Buena,Si,5,Insatisfecho
+1718496000,Cirugia,33,134,880,Eddi,3,5,1,5,Mala,No,2,Insatisfecho
+1783728000,Consulta,22,176,2878,Eddi,1,3,1,2,Regular,No,4,Insatisfecho
+1747526400,Desparasitacion,47,167,4639,Eddi,4,5,4,2,Regular,Si,1,Insatisfecho
+1739145600,Vacunacion,22,50,3297,Eddi,4,4,2,2,Regular,No,2,Insatisfecho
+1761004800,Vacunacion,12,179,4368,Eddi,2,4,3,4,Regular,Si,3,Insatisfecho
+1770076800,Consulta,25,149,408,Eddi,4,4,2,2,Mala,Si,5,Insatisfecho
+1789948800,Desparasitacion,22,17,2838,Eddi,4,1,3,3,Pesimo,Si,3,Insatisfecho
+1775088000,Vacunacion,26,158,4749,Eddi,4,4,2,1,Pesima,Si,3,Insatisfecho
+1787616000,Vacunacion,39,169,3949,Eddi,3,1,5,4,Pesimo,Si,2,Insatisfecho
+1785974400,Vacunacion,17,146,3464,Eddi,5,3,2,4,Regular,Si,5,Insatisfecho
+1732492800,Desparasitacion,23,23,3707,Eddi,5,4,5,2,Mala,No,2,Insatisfecho
+1741824000,Desparasitacion,12,114,3988,Eddi,2,1,2,1,Pesimo,No,3,Insatisfecho
+1743552000,Desparasitacion,26,143,330,Eddi,1,1,3,2,Pesima,Si,5,Insatisfecho
+1765843200,Desparasitacion,27,106,1507,Eddi,3,5,5,1,Pesimo,Si,5,Insatisfecho
+1727136000,Desparasitacion,23,154,474,Eddi,3,5,4,1,Buena,Si,5,Insatisfecho
+1744416000,Consulta,51,10,1499,Eddi,1,3,4,1,Pesima,Si,5,Insatisfecho
+1741046400,Consulta,44,148,491,Eddi,3,1,1,3,Buena,No,4,Insatisfecho
+1736380800,Consulta,48,114,2293,Eddi,1,4,4,1,Mala,Si,5,Insatisfecho
+1743811200,Vacunacion,9,123,4299,Eddi,4,2,3,5,Pesima,No,3,Insatisfecho
+1780876800,Consulta,19,89,2064,Eddi,3,3,2,3,Mala,Si,3,Insatisfecho
+1756857600,Vacunacion,27,165,776,Eddi,2,4,4,2,Buena,No,2,Insatisfecho
+1715040000,Consulta,46,91,276,Eddi,3,4,1,5,Regular,No,5,Insatisfecho
+1718928000,Cirugia,25,143,2860,Eddi,3,3,3,4,Regular,No,3,Insatisfecho
+1705968000,Vacunacion,54,102,819,Eddi,4,5,5,2,Pesima,Si,1,Insatisfecho
+1704153600,Desparasitacion,21,152,1296,Eddi,4,1,4,2,Pesimo,Si,3,Insatisfecho
+1744848000,Cirugia,19,170,4778,Eddi,2,1,3,5,Pesimo,No,2,Insatisfecho
+1715212800,Desparasitacion,21,11,4967,Eddi,5,5,5,4,Regular,No,2,Insatisfecho
+1766966400,Consulta,56,14,4390,Eddi,2,2,4,1,Regular,No,4,Insatisfecho
+1706140800,Desparasitacion,9,63,830,Eddi,2,1,4,1,Pesimo,Si,3,Insatisfecho
+1735171200,Desparasitacion,41,85,624,Eddi,1,1,3,4,Regular,Si,1,Insatisfecho
+1786752000,Consulta,39,67,868,Eddi,5,2,1,4,Pesima,Si,3,Insatisfecho
+1771027200,Consulta,27,113,1287,Eddi,3,4,1,5,Buena,Si,3,Insatisfecho
+1784678400,Consulta,7,35,1061,Eddi,4,5,2,1,Pesima,Si,5,Insatisfecho
+1755561600,Consulta,21,34,68,Eddi,5,4,2,3,Pesima,Si,4,Insatisfecho
+1744156800,Desparasitacion,42,29,4138,Eddi,3,3,5,2,Mala,No,5,Insatisfecho
+1774396800,Desparasitacion,44,167,1996,Eddi,3,1,3,4,Regular,Si,2,Insatisfecho
+1772409600,Desparasitacion,49,75,1895,Eddi,4,3,1,5,Regular,Si,4,Insatisfecho
+1785715200,Cirugia,33,114,3217,Eddi,5,4,1,2,Mala,Si,2,Insatisfecho
+1748304000,Cirugia,44,98,3566,Eddi,1,5,1,2,Pesimo,Si,1,Insatisfecho
+1750982400,Vacunacion,58,92,2444,Eddi,1,4,4,5,Mala,Si,4,Insatisfecho
+1723248000,Vacunacion,11,62,925,Eddi,2,2,5,3,Buena,Si,2,Insatisfecho
+1765929600,Cirugia,59,173,1449,Eddi,1,2,2,5,Pesima,No,2,Insatisfecho
+1731715200,Desparasitacion,30,143,1627,Eddi,4,4,4,5,Pesimo,No,5,Insatisfecho
+1734134400,Desparasitacion,54,159,2317,Eddi,4,4,3,1,Pesima,Si,1,Insatisfecho
+1722643200,Consulta,18,27,1911,Eddi,3,1,4,2,Pesimo,Si,3,Insatisfecho
+1780444800,Desparasitacion,12,158,3225,Eddi,3,4,5,4,Pesimo,No,2,Insatisfecho
+1733702400,Vacunacion,17,41,308,Eddi,1,2,3,3,Buena,No,5,Insatisfecho
+1704672000,Consulta,32,70,3043,Eddi,2,4,1,2,Regular,Si,5,Insatisfecho
+1719446400,Consulta,25,38,4343,Eddi,4,4,5,2,Pesima,Si,3,Insatisfecho
+1745193600,Consulta,33,135,4543,Eddi,1,2,1,3,Mala,Si,5,Insatisfecho
+1740182400,Desparasitacion,37,37,205,Eddi,3,1,1,4,Buena,No,3,Insatisfecho
+1753747200,Vacunacion,48,162,753,Eddi,2,2,1,1,Mala,Si,5,Insatisfecho
+1767830400,Consulta,21,12,4222,Eddi,3,1,5,1,Regular,Si,1,Insatisfecho
+1787788800,Cirugia,50,110,3850,Eddi,3,1,4,5,Buena,No,4,Insatisfecho
+1735344000,Consulta,21,103,3654,Eddi,1,3,2,5,Pesima,Si,1,Insatisfecho
+1728864000,Consulta,34,163,1587,Eddi,1,5,4,2,Pesima,Si,2,Insatisfecho
+1761868800,Cirugia,7,28,2071,Eddi,5,1,5,1,Pesimo,No,5,Insatisfecho
+1712793600,Vacunacion,19,106,1478,Eddi,3,1,3,2,Regular,Si,3,Insatisfecho
+1735084800,Cirugia,5,144,4008,Eddi,1,1,4,4,Regular,Si,3,Insatisfecho
+1751500800,Cirugia,44,98,3786,Eddi,5,2,4,1,Regular,No,3,Insatisfecho
+1747872000,Cirugia,44,145,1398,Eddi,1,2,4,2,Regular,No,3,Insatisfecho
+1753056000,Desparasitacion,6,12,1263,Eddi,3,3,4,2,Regular,Si,3,Insatisfecho
+1719705600,Cirugia,9,150,2060,Eddi,2,3,1,5,Regular,Si,1,Insatisfecho
+1772668800,Consulta,25,11,3261,Eddi,5,1,4,3,Regular,Si,4,Insatisfecho
+1743638400,Cirugia,6,117,473,Eddi,1,4,2,2,Mala,No,5,Insatisfecho
+1739923200,Consulta,37,154,4628,Eddi,2,1,5,2,Pesima,Si,1,Insatisfecho
+1734825600,Vacunacion,44,44,1831,Eddi,5,2,3,4,Mala,No,2,Insatisfecho
+1751846400,Desparasitacion,13,152,4407,Eddi,5,2,4,3,Buena,Si,1,Insatisfecho
+1760572800,Vacunacion,32,24,2048,Eddi,2,4,4,5,Buena,No,4,Insatisfecho
+1762732800,Vacunacion,18,117,2120,Eddi,4,2,5,3,Regular,Si,5,Insatisfecho
+1771545600,Cirugia,35,93,1357,Eddi,5,1,3,1,Pesimo,No,1,Insatisfecho
+1740268800,Vacunacion,29,75,1120,Eddi,1,5,5,2,Pesimo,No,3,Insatisfecho
+1727827200,Desparasitacion,49,101,622,Eddi,1,4,4,1,Pesima,No,4,Insatisfecho
+1785024000,Consulta,30,91,1085,Eddi,4,1,3,4,Buena,No,2,Insatisfecho
+1728172800,Vacunacion,57,169,4674,Eddi,5,3,2,2,Pesimo,Si,5,Insatisfecho
+1750118400,Consulta,26,77,4277,Eddi,3,2,5,4,Mala,Si,2,Insatisfecho
+1736812800,Consulta,13,88,3597,Eddi,5,3,5,1,Pesimo,No,4,Insatisfecho
+1763683200,Vacunacion,35,87,3317,Eddi,3,1,5,3,Pesima,Si,3,Insatisfecho
+1786492800,Cirugia,48,38,2674,Eddi,2,2,4,1,Buena,No,5,Insatisfecho
+1731283200,Desparasitacion,55,120,4592,Eddi,5,3,3,5,Pesimo,Si,5,Insatisfecho
+1740960000,Desparasitacion,44,40,1652,Eddi,5,4,2,1,Pesimo,No,3,Insatisfecho
+1775779200,Consulta,56,34,2608,Eddi,4,4,5,4,Buena,Si,1,Insatisfecho
+1713139200,Vacunacion,6,178,2209,Eddi,5,4,1,1,Pesima,No,1,Insatisfecho
+1724716800,Desparasitacion,14,93,890,Eddi,2,3,5,5,Pesimo,No,2,Insatisfecho
+1761264000,Consulta,7,58,2374,Eddi,2,2,2,4,Regular,Si,5,Insatisfecho
+1724630400,Cirugia,32,135,631,Eddi,4,4,1,4,Buena,Si,3,Insatisfecho
+1785888000,Desparasitacion,29,129,2391,Eddi,4,5,4,1,Regular,No,1,Insatisfecho
+1712188800,Vacunacion,9,100,1334,Eddi,1,3,3,4,Buena,Si,5,Insatisfecho
+1753920000,Vacunacion,58,142,2479,Eddi,1,4,2,4,Pesimo,No,4,Insatisfecho
+1754697600,Vacunacion,53,117,3162,Eddi,5,4,2,2,Mala,No,2,Insatisfecho
+1732406400,Desparasitacion,8,115,2601,Eddi,3,1,4,1,Regular,Si,3,Insatisfecho
+1774224000,Consulta,53,44,2504,Eddi,4,2,2,4,Buena,Si,5,Insatisfecho
+1758240000,Vacunacion,55,117,4056,Eddi,1,4,5,2,Buena,Si,5,Insatisfecho
+1763769600,Vacunacion,59,86,1641,Eddi,2,5,2,2,Pesima,No,2,Insatisfecho
+1776297600,Cirugia,13,23,2540,Eddi,5,3,2,1,Regular,Si,3,Insatisfecho
+1762819200,Desparasitacion,36,170,409,Eddi,4,2,2,1,Pesima,Si,4,Insatisfecho
+1750291200,Vacunacion,27,134,1528,Eddi,5,5,5,5,Regular,Si,1,Insatisfecho
+1725667200,Vacunacion,29,30,3776,Eddi,1,5,2,2,Buena,No,1,Insatisfecho
+1706400000,Vacunacion,58,83,1361,Eddi,5,4,4,4,Buena,No,5,Insatisfecho
+1788998400,Consulta,24,168,2907,Eddi,2,1,5,4,Regular,No,4,Insatisfecho
+1779408000,Vacunacion,20,14,1622,Eddi,1,2,2,4,Mala,Si,3,Insatisfecho
+1715558400,Consulta,14,22,4333,Eddi,1,3,2,2,Pesima,Si,4,Insatisfecho
+1749254400,Cirugia,53,99,576,Eddi,4,2,4,4,Pesimo,Si,3,Insatisfecho
+1726531200,Consulta,26,42,1803,Eddi,5,5,3,2,Pesimo,Si,4,Insatisfecho
+1732320000,Cirugia,58,50,4924,Eddi,4,3,4,2,Pesima,Si,4,Insatisfecho
+1778371200,Desparasitacion,38,87,4164,Eddi,2,2,1,2,Buena,Si,4,Insatisfecho
+1754092800,Vacunacion,29,46,4962,Eddi,1,2,4,5,Buena,Si,4,Insatisfecho
+1743984000,Vacunacion,37,139,4807,Eddi,2,2,3,1,Pesima,Si,1,Insatisfecho
+1776729600,Desparasitacion,13,134,1187,Eddi,2,5,2,4,Pesima,No,4,Insatisfecho
+1739491200,Cirugia,44,120,980,Eddi,1,2,5,1,Pesimo,No,3,Insatisfecho
+1786665600,Desparasitacion,59,19,4573,Eddi,4,2,4,2,Pesima,Si,5,Insatisfecho
+1759968000,Consulta,14,128,3471,Eddi,3,2,1,4,Buena,Si,5,Insatisfecho
+1780012800,Consulta,27,168,3248,Eddi,2,1,2,3,Pesimo,Si,4,Insatisfecho
+1742860800,Vacunacion,33,174,191,Eddi,2,4,5,1,Buena,Si,2,Insatisfecho
+1789171200,Vacunacion,5,148,2637,Eddi,5,2,5,1,Regular,Si,3,Insatisfecho
+1735516800,Cirugia,15,33,4414,Eddi,2,2,2,1,Pesimo,Si,3,Insatisfecho
+1731369600,Cirugia,6,136,2163,Eddi,1,1,3,2,Buena,Si,4,Insatisfecho
+1707523200,Cirugia,17,29,4133,Eddi,1,4,4,2,Buena,No,3,Insatisfecho
+1763510400,Cirugia,25,20,3030,Eddi,4,2,3,2,Pesima,No,3,Insatisfecho
+1752796800,Desparasitacion,30,119,4846,Eddi,4,4,4,1,Pesima,Si,3,Insatisfecho
+1730937600,Cirugia,58,101,831,Eddi,1,4,1,3,Pesimo,No,3,Insatisfecho
+1739318400,Desparasitacion,12,69,1724,Eddi,5,3,4,1,Buena,No,4,Insatisfecho
+1716076800,Consulta,9,107,3342,Eddi,2,1,5,1,Mala,Si,3,Insatisfecho
+1788912000,Desparasitacion,43,67,1366,Eddi,4,1,4,3,Mala,No,3,Insatisfecho
+1716854400,Consulta,15,69,643,Eddi,4,3,4,2,Pesimo,Si,5,Insatisfecho
+1738713600,Desparasitacion,8,11,2643,Eddi,4,1,1,3,Buena,Si,4,Insatisfecho
+1706054400,Desparasitacion,49,72,2471,Eddi,5,1,1,1,Pesima,No,3,Insatisfecho
+1728345600,Desparasitacion,25,11,1567,Eddi,1,4,5,4,Pesima,Si,1,Insatisfecho
+1756166400,Vacunacion,32,28,3361,Eddi,5,3,5,1,Regular,Si,2,Insatisfecho
+1720137600,Vacunacion,38,166,124,Eddi,2,2,4,2,Mala,Si,2,Insatisfecho
+1710806400,Cirugia,36,155,2375,Eddi,4,3,1,1,Mala,Si,5,Insatisfecho
+1783814400,Cirugia,46,142,1606,Eddi,2,5,2,1,Pesimo,Si,1,Insatisfecho
+1744502400,Consulta,40,128,2381,Eddi,2,1,4,3,Pesimo,No,2,Insatisfecho
+1737590400,Consulta,12,140,1204,Eddi,3,4,3,5,Regular,Si,5,Insatisfecho
+1763164800,Consulta,8,46,4050,Eddi,2,2,2,5,Mala,Si,2,Insatisfecho
+1790380800,Cirugia,57,121,3287,Eddi,3,3,3,1,Buena,No,2,Insatisfecho
+1773100800,Cirugia,47,64,525,Eddi,5,1,4,1,Buena,No,1,Insatisfecho
+1786406400,Desparasitacion,46,57,4778,Eddi,2,4,1,2,Pesimo,Si,4,Insatisfecho
+1721174400,Consulta,47,56,2660,Eddi,5,1,1,2,Buena,Si,2,Insatisfecho
+1741996800,Cirugia,56,142,4990,Eddi,4,5,1,3,Mala,No,5,Insatisfecho
+1715990400,Cirugia,28,113,2613,Eddi,3,2,2,1,Pesimo,Si,4,Insatisfecho
+1720483200,Cirugia,49,139,549,Eddi,4,2,4,2,Regular,No,3,Insatisfecho
+1774915200,Cirugia,28,82,3852,Eddi,4,2,3,2,Pesimo,Si,5,Insatisfecho
+1711411200,Cirugia,38,54,752,Eddi,4,3,2,1,Regular,No,3,Insatisfecho
+1734480000,Consulta,14,114,3740,Eddi,2,3,4,4,Buena,No,1,Insatisfecho
+1759190400,Vacunacion,8,127,3239,Eddi,3,5,5,4,Buena,Si,2,Insatisfecho
+1744588800,Desparasitacion,49,44,2270,Eddi,2,1,5,4,Mala,No,1,Insatisfecho
+1713225600,Vacunacion,15,22,2597,Eddi,3,3,2,2,Buena,No,2,Insatisfecho
+1773273600,Vacunacion,55,172,1257,Eddi,5,1,1,3,Pesima,No,5,Insatisfecho
+1781308800,Desparasitacion,51,112,959,Eddi,2,2,4,3,Regular,Si,4,Insatisfecho
+1710028800,Vacunacion,50,49,4915,Eddi,2,3,5,1,Buena,Si,1,Insatisfecho
+1724112000,Desparasitacion,39,140,955,Eddi,2,2,5,3,Buena,Si,4,Insatisfecho
+1782172800,Cirugia,11,175,4307,Eddi,5,3,1,4,Regular,No,3,Algo satisfecho
+1779580800,Vacunacion,23,19,4286,Eddi,3,2,1,2,Buena,Si,3,Algo satisfecho
+1713052800,Vacunacion,18,57,3187,Eddi,3,4,4,3,Pesima,Si,3,Algo satisfecho
+1772150400,Desparasitacion,57,45,3212,Eddi,2,1,5,1,Mala,No,3,Algo satisfecho
+1748131200,Consulta,37,85,2036,Eddi,2,4,2,3,Buena,No,2,Algo satisfecho
+1706227200,Vacunacion,59,126,1766,Eddi,1,2,2,1,Pesimo,Si,2,Algo satisfecho
+1725321600,Consulta,29,81,3191,Eddi,5,4,1,5,Mala,Si,2,Algo satisfecho
+1734048000,Desparasitacion,10,155,3026,Eddi,4,2,1,5,Pesima,No,2,Algo satisfecho
+1758758400,Consulta,53,65,1916,Eddi,2,5,1,2,Regular,No,2,Algo satisfecho
+1731974400,Vacunacion,48,163,4919,Eddi,3,4,5,5,Buena,No,2,Algo satisfecho
+1781395200,Desparasitacion,36,49,237,Eddi,3,5,4,3,Pesimo,No,5,Algo satisfecho
+1777939200,Consulta,48,137,3785,Eddi,2,5,3,4,Pesima,No,3,Algo satisfecho
+1753660800,Cirugia,47,163,2018,Eddi,5,3,1,4,Mala,No,4,Algo satisfecho
+1741651200,Desparasitacion,11,85,4696,Eddi,5,1,2,3,Mala,Si,1,Algo satisfecho
+1746316800,Consulta,47,133,2431,Eddi,3,4,2,3,Pesima,Si,5,Algo satisfecho
+1746057600,Cirugia,40,54,4966,Eddi,4,1,1,4,Pesimo,Si,2,Algo satisfecho
+1755216000,Consulta,54,56,3678,Eddi,2,3,3,2,Mala,Si,5,Algo satisfecho
+1729036800,Desparasitacion,34,112,147,Eddi,5,1,1,3,Pesima,Si,3,Algo satisfecho
+1708128000,Cirugia,52,154,4116,Eddi,3,3,3,2,Pesimo,Si,1,Algo satisfecho
+1729814400,Consulta,44,113,660,Eddi,1,4,3,3,Buena,Si,4,Algo satisfecho
+1709424000,Consulta,14,132,647,Eddi,5,2,1,5,Mala,No,3,Algo satisfecho
+1711843200,Desparasitacion,16,65,1354,Eddi,5,1,1,1,Mala,No,1,Algo satisfecho
+1755820800,Vacunacion,53,24,4601,Eddi,5,5,3,1,Pesima,Si,3,Algo satisfecho
+1707955200,Desparasitacion,5,91,2210,Eddi,2,3,3,3,Buena,No,4,Algo satisfecho
+1722729600,Desparasitacion,28,24,2906,Eddi,5,5,2,3,Buena,Si,4,Algo satisfecho
+1758585600,Desparasitacion,58,168,2547,Eddi,4,1,3,1,Mala,Si,5,Algo satisfecho
+1727654400,Desparasitacion,30,63,4738,Eddi,4,5,4,1,Buena,No,1,Algo satisfecho
+1763078400,Desparasitacion,20,159,1685,Eddi,2,1,2,1,Mala,Si,3,Algo satisfecho
+1731110400,Cirugia,34,93,2155,Eddi,5,3,5,2,Pesima,Si,2,Algo satisfecho
+1735430400,Vacunacion,13,168,719,Eddi,2,3,1,2,Buena,No,5,Algo satisfecho
+1709337600,Cirugia,41,76,4401,Eddi,1,3,5,4,Pesimo,Si,1,Algo satisfecho
+1746748800,Consulta,14,17,4058,Eddi,1,1,2,3,Regular,No,2,Algo satisfecho
+1738108800,Cirugia,39,35,3398,Eddi,5,1,4,1,Buena,Si,3,Algo satisfecho
+1728000000,Vacunacion,41,170,3719,Eddi,1,5,3,5,Regular,Si,4,Algo satisfecho
+1771977600,Cirugia,16,47,3780,Eddi,4,3,2,1,Mala,No,5,Algo satisfecho
+1790035200,Consulta,41,73,446,Eddi,3,2,1,2,Regular,No,3,Algo satisfecho
+1760400000,Cirugia,27,35,2332,Eddi,4,2,2,3,Regular,Si,5,Algo satisfecho
+1722124800,Consulta,51,171,4783,Eddi,1,2,5,3,Regular,Si,2,Algo satisfecho
+1743120000,Vacunacion,41,129,889,Eddi,4,3,5,5,Regular,No,2,Algo satisfecho
+1723334400,Desparasitacion,7,17,4763,Eddi,1,4,4,1,Regular,No,3,Algo satisfecho
+1738886400,Consulta,49,46,4483,Eddi,3,1,5,5,Regular,Si,3,Algo satisfecho
+1748476800,Vacunacion,16,42,1026,Eddi,1,5,4,2,Buena,Si,2,Algo satisfecho
+1775520000,Vacunacion,24,172,414,Eddi,1,5,1,4,Mala,Si,5,Algo satisfecho
+1778889600,Consulta,21,102,591,Eddi,3,2,2,5,Regular,Si,3,Algo satisfecho
+1704326400,Cirugia,37,130,3889,Eddi,5,1,2,1,Pesima,No,5,Algo satisfecho
+1775606400,Cirugia,23,29,4308,Eddi,4,1,3,2,Regular,No,1,Algo satisfecho
+1727740800,Consulta,38,95,1737,Eddi,1,3,5,5,Mala,No,4,Algo satisfecho
+1716681600,Cirugia,47,72,2633,Eddi,3,5,1,3,Pesima,No,4,Algo satisfecho
+1787270400,Cirugia,17,154,3542,Eddi,5,2,3,5,Regular,No,1,Algo satisfecho
+1776384000,Consulta,30,74,992,Eddi,2,2,1,2,Regular,No,3,Algo satisfecho
+1772064000,Desparasitacion,49,151,2096,Eddi,5,3,4,3,Pesimo,Si,5,Algo satisfecho
+1746576000,Consulta,24,94,117,Eddi,2,1,1,5,Pesimo,Si,3,Algo satisfecho
+1729123200,Consulta,35,175,3265,Eddi,1,4,1,4,Mala,No,2,Algo satisfecho
+1768521600,Cirugia,49,39,3286,Eddi,4,2,3,4,Mala,No,4,Algo satisfecho
+1709078400,Cirugia,27,107,696,Eddi,3,4,5,4,Pesima,Si,2,Algo satisfecho
+1705449600,Desparasitacion,9,162,4264,Eddi,3,2,5,2,Buena,No,3,Algo satisfecho
+1751328000,Desparasitacion,59,97,4055,Eddi,2,1,5,1,Buena,No,4,Algo satisfecho
+1760918400,Desparasitacion,33,134,1200,Eddi,5,2,3,2,Mala,No,4,Algo satisfecho
+1747785600,Desparasitacion,17,35,710,Eddi,1,2,1,4,Regular,Si,5,Algo satisfecho
+1716249600,Consulta,10,118,3636,Eddi,5,1,1,4,Regular,Si,4,Algo satisfecho
+1787529600,Consulta,36,78,1998,Eddi,2,3,4,4,Regular,Si,5,Algo satisfecho
+1711324800,Cirugia,30,49,564,Eddi,5,3,4,4,Buena,No,4,Algo satisfecho
+1748044800,Vacunacion,29,122,3990,Eddi,3,5,5,5,Regular,Si,4,Algo satisfecho
+1771459200,Consulta,31,158,2617,Eddi,5,2,1,3,Regular,Si,3,Algo satisfecho
+1784332800,Consulta,39,148,1637,Eddi,2,1,5,1,Buena,Si,3,Algo satisfecho
+1743292800,Consulta,59,65,3967,Eddi,5,4,1,5,Buena,No,2,Algo satisfecho
+1704499200,Desparasitacion,24,149,2426,Eddi,4,5,2,3,Pesima,No,3,Algo satisfecho
+1738368000,Vacunacion,9,96,239,Eddi,1,3,2,1,Mala,No,3,Algo satisfecho
+1768003200,Cirugia,55,79,1986,Eddi,3,3,2,1,Buena,Si,5,Algo satisfecho
+1733961600,Cirugia,37,91,4185,Eddi,2,5,2,2,Buena,Si,3,Algo satisfecho
+1730160000,Cirugia,35,18,2658,Eddi,4,1,4,1,Pesima,No,1,Algo satisfecho
+1717027200,Cirugia,51,46,4205,Eddi,3,1,3,3,Pesima,Si,2,Algo satisfecho
+1749427200,Cirugia,35,82,4804,Eddi,5,4,5,1,Pesima,No,4,Algo satisfecho
+1777161600,Vacunacion,47,150,3956,Eddi,4,4,5,2,Buena,Si,2,Algo satisfecho
+1782777600,Consulta,52,23,1288,Eddi,2,1,1,2,Regular,Si,1,Algo satisfecho
+1780358400,Desparasitacion,10,108,2291,Eddi,4,3,3,1,Pesima,No,4,Algo satisfecho
+1719187200,Vacunacion,32,169,1886,Eddi,2,1,2,1,Pesimo,No,2,Algo satisfecho
+1750204800,Cirugia,15,107,1896,Eddi,2,4,1,2,Pesima,No,1,Algo satisfecho
+1736035200,Desparasitacion,34,29,296,Eddi,5,1,4,4,Pesimo,No,2,Algo satisfecho
+1748822400,Desparasitacion,8,151,3186,Eddi,1,5,3,3,Regular,Si,3,Algo satisfecho
+1785801600,Consulta,26,26,3847,Eddi,4,1,4,5,Pesimo,No,1,Algo satisfecho
+1758499200,Consulta,6,150,251,Eddi,4,3,3,2,Buena,Si,5,Algo satisfecho
+1782518400,Cirugia,11,16,2605,Eddi,1,1,5,5,Regular,Si,4,Algo satisfecho
+1765238400,Desparasitacion,51,77,3809,Eddi,3,1,1,1,Regular,No,3,Algo satisfecho
+1747440000,Consulta,50,128,828,Eddi,2,4,5,3,Pesimo,No,5,Algo satisfecho
+1723852800,Consulta,49,33,3341,Eddi,4,2,4,4,Pesima,Si,3,Algo satisfecho
+1785283200,Desparasitacion,48,51,4995,Eddi,2,4,1,4,Regular,Si,3,Algo satisfecho
+1757894400,Vacunacion,23,98,3858,Eddi,3,2,1,4,Regular,No,5,Algo satisfecho
+1707868800,Desparasitacion,39,172,735,Eddi,4,3,3,3,Regular,Si,2,Algo satisfecho
+1724198400,Desparasitacion,55,157,3521,Eddi,5,1,5,1,Regular,Si,5,Algo satisfecho
+1782086400,Cirugia,26,133,2472,Eddi,1,5,5,2,Mala,Si,4,Algo satisfecho
+1774137600,Cirugia,40,91,3538,Eddi,5,4,4,2,Buena,No,5,Algo satisfecho
+1749168000,Vacunacion,46,114,3709,Eddi,2,5,1,5,Mala,No,3,Algo satisfecho
+1719878400,Cirugia,16,24,1783,Eddi,5,4,2,2,Regular,Si,4,Algo satisfecho
+1727395200,Vacunacion,41,55,647,Eddi,2,3,1,3,Pesima,No,3,Algo satisfecho
+1746835200,Cirugia,44,166,3248,Eddi,3,5,5,2,Pesimo,No,3,Algo satisfecho
+1707091200,Consulta,30,14,4090,Eddi,2,3,4,2,Pesimo,Si,4,Algo satisfecho
+1714435200,Desparasitacion,56,179,1174,Eddi,3,3,2,1,Mala,Si,2,Algo satisfecho
+1752624000,Cirugia,56,20,191,Eddi,4,3,4,4,Buena,No,5,Algo satisfecho
+1764115200,Desparasitacion,14,44,3269,Eddi,4,1,2,1,Regular,Si,4,Algo satisfecho
+1749772800,Vacunacion,33,22,1623,Eddi,1,2,5,3,Mala,Si,2,Algo satisfecho
+1788307200,Vacunacion,48,118,3657,Eddi,4,2,2,2,Buena,Si,4,Algo satisfecho
+1712102400,Vacunacion,48,49,3777,Eddi,3,4,5,1,Regular,Si,2,Algo satisfecho
+1722988800,Cirugia,30,69,1669,Eddi,3,1,4,3,Mala,Si,4,Algo satisfecho
+1788480000,Desparasitacion,48,161,3573,Eddi,5,4,1,3,Buena,No,5,Algo satisfecho
+1762300800,Desparasitacion,12,155,1873,Eddi,3,5,1,4,Regular,Si,1,Algo satisfecho
+1773878400,Vacunacion,15,58,4727,Eddi,4,2,5,3,Buena,No,5,Algo satisfecho
+1709596800,Cirugia,23,146,4380,Eddi,5,5,5,2,Buena,No,4,Algo satisfecho
+1773187200,Consulta,5,15,1026,Eddi,2,3,5,3,Pesima,No,2,Algo satisfecho
+1765756800,Desparasitacion,7,45,1950,Eddi,1,4,2,4,Mala,Si,5,Algo satisfecho
+1718668800,Vacunacion,54,38,1186,Eddi,4,4,2,2,Pesimo,No,5,Algo satisfecho
+1777334400,Cirugia,46,145,3003,Eddi,2,3,5,2,Mala,No,2,Algo satisfecho
+1790121600,Consulta,29,147,2128,Eddi,5,1,3,2,Pesima,No,2,Algo satisfecho
+1741132800,Desparasitacion,55,19,4678,Eddi,1,4,5,2,Buena,Si,1,Algo satisfecho
+1722470400,Cirugia,32,33,3434,Eddi,5,4,2,1,Buena,Si,5,Algo satisfecho
+1737763200,Cirugia,45,49,4621,Eddi,1,2,4,1,Pesimo,No,2,Algo satisfecho
+1721001600,Vacunacion,51,101,3970,Eddi,5,5,2,5,Regular,Si,1,Algo satisfecho
+1705190400,Cirugia,10,20,2266,Eddi,1,3,2,5,Pesimo,Si,2,Algo satisfecho
+1733875200,Cirugia,7,53,1948,Eddi,5,2,4,5,Pesimo,Si,2,Algo satisfecho
+1733270400,Desparasitacion,18,64,3575,Eddi,1,5,2,3,Regular,No,1,Algo satisfecho
+1789603200,Vacunacion,18,14,276,Eddi,1,1,1,1,Pesimo,Si,4,Algo satisfecho
+1743724800,Cirugia,14,157,4415,Eddi,4,3,5,3,Mala,No,3,Algo satisfecho
+1773705600,Desparasitacion,33,110,4811,Eddi,4,3,2,1,Pesima,No,1,Algo satisfecho
+1736467200,Desparasitacion,54,173,3914,Eddi,5,5,5,5,Pesimo,No,5,Algo satisfecho
+1757980800,Consulta,22,103,381,Eddi,3,5,3,3,Pesima,Si,3,Algo satisfecho
+1777507200,Cirugia,43,34,4271,Eddi,1,5,5,3,Pesimo,Si,4,Algo satisfecho
+1788652800,Vacunacion,14,142,4938,Eddi,4,5,2,5,Pesima,No,1,Algo satisfecho
+1769644800,Cirugia,27,64,3039,Eddi,1,3,3,5,Buena,Si,4,Algo satisfecho
+1731542400,Cirugia,15,93,2041,Eddi,2,5,2,4,Buena,No,2,Algo satisfecho
+1760227200,Cirugia,38,30,4413,Eddi,5,5,5,1,Regular,Si,2,Algo satisfecho
+1733788800,Cirugia,47,60,332,Eddi,1,2,1,4,Regular,Si,2,Algo satisfecho
+1757548800,Cirugia,33,11,643,Eddi,1,4,4,2,Pesimo,No,4,Algo satisfecho
+1783900800,Consulta,43,74,3908,Eddi,4,5,3,1,Mala,No,4,Algo satisfecho
+1710892800,Desparasitacion,38,46,3804,Eddi,1,4,1,5,Mala,Si,4,Algo satisfecho
+1758931200,Vacunacion,34,51,959,Eddi,5,4,3,5,Mala,Si,4,Algo satisfecho
+1708819200,Desparasitacion,42,77,3518,Eddi,2,5,2,1,Mala,Si,5,Algo satisfecho
+1766707200,Consulta,57,58,1891,Eddi,2,4,1,5,Pesimo,No,4,Algo satisfecho
+1754352000,Desparasitacion,10,52,1862,Eddi,1,5,4,2,Pesimo,No,5,Algo satisfecho
+1747267200,Cirugia,51,43,1743,Eddi,2,3,4,4,Buena,Si,3,Algo satisfecho
+1711584000,Consulta,58,102,2116,Eddi,1,3,2,5,Buena,Si,3,Algo satisfecho
+1757635200,Desparasitacion,34,86,1824,Eddi,1,1,3,2,Pesima,No,1,Algo satisfecho
+1781222400,Consulta,30,13,3705,Eddi,3,4,5,4,Pesima,Si,5,Algo satisfecho
+1780790400,Desparasitacion,16,16,463,Eddi,3,1,2,2,Regular,No,5,Algo satisfecho
+1757116800,Vacunacion,36,153,4083,Eddi,4,3,5,1,Buena,Si,1,Algo satisfecho
+1713830400,Vacunacion,38,175,2306,Eddi,3,2,5,5,Buena,No,5,Algo satisfecho
+1769212800,Vacunacion,8,56,1427,Eddi,2,3,5,4,Pesimo,Si,5,Algo satisfecho
+1783209600,Vacunacion,22,158,3751,Eddi,2,4,3,4,Pesima,Si,2,Algo satisfecho
+1748908800,Vacunacion,9,62,392,Eddi,4,3,1,4,Buena,No,5,Algo satisfecho
+1786838400,Vacunacion,46,30,2238,Eddi,4,4,1,3,Pesima,Si,3,Algo satisfecho
+1714089600,Consulta,19,54,2684,Eddi,3,1,5,2,Regular,Si,3,Algo satisfecho
+1782345600,Vacunacion,19,125,1547,Eddi,4,1,3,1,Regular,No,1,Algo satisfecho
+1756684800,Desparasitacion,17,36,3791,Eddi,1,1,3,2,Pesima,Si,2,Algo satisfecho
+1714176000,Vacunacion,31,67,4033,Eddi,3,2,2,1,Mala,No,5,Algo satisfecho
+1745366400,Consulta,8,38,983,Eddi,5,5,5,2,Pesima,No,4,Algo satisfecho
+1723161600,Cirugia,55,102,1481,Eddi,5,5,5,2,Pesimo,Si,2,Algo satisfecho
+1753574400,Vacunacion,21,126,3878,Eddi,2,1,1,4,Buena,No,5,Algo satisfecho
+1707350400,Consulta,31,18,3747,Eddi,3,4,4,4,Buena,No,3,Algo satisfecho
+1784246400,Vacunacion,28,173,1639,Eddi,1,5,3,4,Buena,Si,5,Algo satisfecho
+1727222400,Cirugia,46,85,4774,Eddi,4,3,2,1,Regular,Si,4,Algo satisfecho
+1726876800,Cirugia,44,20,4998,Eddi,4,2,2,5,Pesima,No,1,Algo satisfecho
+1759017600,Consulta,42,45,4355,Eddi,5,3,4,2,Pesima,Si,3,Algo satisfecho
+1726099200,Cirugia,49,104,4009,Eddi,2,1,5,1,Pesimo,No,4,Algo satisfecho
+1738195200,Desparasitacion,25,17,3881,Eddi,4,3,3,1,Mala,No,3,Algo satisfecho
+1759708800,Desparasitacion,7,56,3635,Eddi,2,2,1,4,Buena,No,5,Algo satisfecho
+1730419200,Consulta,24,112,4677,Eddi,2,4,1,4,Regular,Si,4,Algo satisfecho
+1717632000,Vacunacion,20,159,591,Eddi,1,1,1,3,Mala,Si,3,Algo satisfecho
+1755993600,Desparasitacion,58,30,1182,Eddi,5,2,4,2,Pesima,No,3,Algo satisfecho
+1757721600,Vacunacion,20,141,2509,Eddi,5,3,5,4,Mala,No,1,Algo satisfecho
+1712275200,Vacunacion,34,42,564,Eddi,5,3,2,4,Pesima,No,3,Algo satisfecho
+1721347200,Cirugia,21,93,1499,Eddi,2,2,2,3,Pesima,Si,5,Algo satisfecho
+1707436800,Cirugia,53,108,2887,Eddi,3,5,2,2,Mala,Si,1,Algo satisfecho
+1737417600,Cirugia,26,134,2554,Eddi,5,4,4,2,Buena,Si,5,Algo satisfecho
+1764806400,Desparasitacion,40,176,4962,Eddi,4,3,3,5,Regular,No,3,Algo satisfecho
+1750809600,Vacunacion,50,150,2057,Eddi,1,2,2,3,Buena,No,3,Algo satisfecho
+1757030400,Vacunacion,23,145,1925,Eddi,2,3,1,4,Mala,Si,3,Algo satisfecho
+1762905600,Consulta,50,128,2091,Eddi,5,1,3,3,Mala,No,1,Algo satisfecho
+1730764800,Vacunacion,19,17,1799,Eddi,5,2,5,2,Buena,No,1,Algo satisfecho
+1770681600,Consulta,41,124,2236,Eddi,3,4,4,1,Regular,No,1,Algo satisfecho
+1757376000,Desparasitacion,53,167,2736,Eddi,2,1,2,3,Pesima,Si,4,Algo satisfecho
+1715385600,Consulta,33,21,2502,Eddi,2,3,4,5,Buena,Si,5,Algo satisfecho
+1752451200,Desparasitacion,45,44,1694,Eddi,3,3,2,5,Pesima,Si,1,Algo satisfecho
+1748995200,Desparasitacion,41,57,1497,Eddi,5,3,1,4,Mala,Si,5,Algo satisfecho
+1738454400,Desparasitacion,23,51,1030,Eddi,4,5,5,2,Buena,No,3,Algo satisfecho
+1709769600,Desparasitacion,25,85,2631,Eddi,5,1,1,5,Buena,Si,3,Algo satisfecho
+1753315200,Vacunacion,31,81,4549,Eddi,4,4,4,3,Buena,Si,5,Algo satisfecho
+1706572800,Desparasitacion,22,66,572,Eddi,4,3,3,1,Pesima,Si,1,Algo satisfecho
+1780531200,Consulta,29,82,3656,Eddi,2,1,2,4,Buena,No,4,Algo satisfecho
+1732838400,Cirugia,53,150,2261,Eddi,3,1,2,1,Buena,Si,3,Algo satisfecho
+1736121600,Desparasitacion,35,161,3761,Eddi,5,3,2,3,Regular,Si,1,Algo satisfecho
+1767312000,Consulta,21,17,2222,Eddi,1,5,3,1,Buena,No,3,Satisfecho
+1775865600,Consulta,47,34,1913,Eddi,2,1,5,4,Buena,No,3,Satisfecho
+1770595200,Consulta,21,101,1184,Eddi,3,1,3,4,Regular,Si,4,Satisfecho
+1711065600,Desparasitacion,35,37,1774,Eddi,5,2,3,2,Buena,Si,3,Satisfecho
+1779235200,Consulta,51,160,3413,Eddi,2,5,3,1,Pesima,No,1,Satisfecho
+1716595200,Cirugia,47,83,2863,Eddi,3,1,4,3,Pesimo,Si,5,Satisfecho
+1749081600,Cirugia,12,78,2429,Eddi,2,5,4,3,Pesima,Si,5,Satisfecho
+1730592000,Vacunacion,15,50,1141,Eddi,3,1,2,3,Regular,Si,2,Satisfecho
+1750032000,Consulta,45,168,4324,Eddi,4,4,1,4,Buena,Si,1,Satisfecho
+1746921600,Cirugia,42,105,4840,Eddi,4,1,3,4,Pesima,No,1,Satisfecho
+1766188800,Desparasitacion,9,145,3700,Eddi,3,3,3,2,Pesima,Si,2,Satisfecho
+1776643200,Cirugia,13,63,2817,Eddi,4,2,2,3,Buena,No,5,Satisfecho
+1765324800,Desparasitacion,9,111,3749,Eddi,1,2,5,1,Pesimo,Si,1,Satisfecho
+1771372800,Cirugia,25,39,1048,Eddi,4,2,1,4,Pesima,Si,2,Satisfecho
+1781568000,Desparasitacion,20,110,3806,Eddi,2,4,1,1,Buena,Si,3,Satisfecho
+1734652800,Desparasitacion,6,140,2357,Eddi,4,3,1,1,Regular,No,3,Satisfecho
+1767398400,Desparasitacion,14,59,173,Eddi,1,1,5,3,Regular,Si,4,Satisfecho
+1725148800,Cirugia,30,139,739,Eddi,2,5,4,2,Buena,No,3,Satisfecho
+1771286400,Desparasitacion,26,130,4310,Eddi,1,1,4,4,Mala,Si,1,Satisfecho
+1755907200,Consulta,24,77,3054,Eddi,3,3,2,1,Buena,No,3,Satisfecho
+1766793600,Cirugia,48,69,2359,Eddi,5,2,3,1,Pesima,Si,3,Satisfecho
+1745020800,Cirugia,12,29,4932,Eddi,4,4,5,1,Pesima,Si,4,Satisfecho
+1745971200,Vacunacion,55,135,3497,Eddi,2,2,4,1,Mala,No,5,Satisfecho
+1780185600,Vacunacion,58,92,3797,Eddi,2,3,1,4,Regular,No,4,Satisfecho
+1728950400,Consulta,15,159,3187,Eddi,2,3,5,4,Pesima,Si,2,Satisfecho
+1729296000,Consulta,59,99,4782,Eddi,4,5,3,2,Pesimo,Si,2,Satisfecho
+1755043200,Consulta,30,116,2224,Eddi,1,1,4,2,Regular,No,2,Satisfecho
+1770854400,Desparasitacion,42,127,3885,Eddi,4,5,2,1,Pesimo,No,2,Satisfecho
+1745280000,Desparasitacion,51,59,1193,Eddi,4,1,1,4,Pesima,Si,4,Satisfecho
+1724457600,Vacunacion,59,162,1691,Eddi,2,2,4,1,Pesima,Si,4,Satisfecho
+1789084800,Desparasitacion,9,119,1174,Eddi,5,1,2,2,Pesimo,No,2,Satisfecho
+1717545600,Cirugia,58,21,1182,Eddi,4,4,2,1,Pesimo,Si,5,Satisfecho
+1758153600,Consulta,18,104,2752,Eddi,3,2,3,5,Pesima,No,4,Satisfecho
+1777593600,Vacunacion,39,88,326,Eddi,5,5,1,2,Mala,Si,5,Satisfecho
+1726012800,Consulta,45,119,2589,Eddi,4,3,5,2,Regular,Si,3,Satisfecho
+1767744000,Consulta,36,67,846,Eddi,2,2,4,1,Regular,No,3,Satisfecho
+1761091200,Desparasitacion,5,81,1481,Eddi,4,1,3,3,Regular,Si,3,Satisfecho
+1783036800,Desparasitacion,27,139,4015,Eddi,1,4,4,3,Buena,No,3,Satisfecho
+1710720000,Desparasitacion,44,99,510,Eddi,1,3,2,2,Pesima,Si,3,Satisfecho
+1745452800,Desparasitacion,16,48,1510,Eddi,1,5,2,3,Mala,Si,1,Satisfecho
+1722384000,Consulta,30,34,2889,Eddi,3,5,3,2,Mala,Si,1,Satisfecho
+1713657600,Cirugia,42,109,2663,Eddi,3,1,4,2,Buena,Si,4,Satisfecho
+1718582400,Cirugia,36,16,1701,Eddi,5,3,5,1,Mala,Si,5,Satisfecho
+1768608000,Cirugia,29,125,2402,Eddi,1,2,5,5,Mala,No,3,Satisfecho
+1704844800,Vacunacion,33,48,3682,Eddi,5,1,2,4,Mala,Si,2,Satisfecho
+1745539200,Desparasitacion,49,160,2773,Eddi,2,5,3,5,Pesimo,No,4,Satisfecho
+1727568000,Desparasitacion,56,89,2386,Eddi,4,4,1,2,Buena,Si,5,Satisfecho
+1777680000,Consulta,7,77,2049,Eddi,5,2,1,1,Pesima,Si,1,Satisfecho
+1778198400,Vacunacion,34,150,4202,Eddi,2,3,5,5,Regular,Si,5,Satisfecho
+1735689600,Vacunacion,28,46,973,Eddi,5,4,1,1,Pesimo,Si,1,Satisfecho
+1764979200,Consulta,22,33,1879,Eddi,5,2,4,4,Regular,Si,3,Satisfecho
+1723593600,Consulta,50,59,1293,Eddi,4,2,2,2,Buena,Si,5,Satisfecho
+1781481600,Vacunacion,14,26,4094,Eddi,1,1,1,3,Pesimo,No,5,Satisfecho
+1728691200,Cirugia,52,86,4998,Eddi,3,3,3,1,Pesima,Si,1,Satisfecho
+1710633600,Desparasitacion,53,142,4233,Eddi,4,2,2,3,Pesima,No,3,Satisfecho
+1707004800,Vacunacion,25,14,2280,Eddi,4,5,2,1,Pesima,No,2,Satisfecho
+1784937600,Vacunacion,44,121,1278,Eddi,3,1,2,1,Buena,No,4,Satisfecho
+1749513600,Cirugia,13,170,2123,Eddi,1,5,3,5,Mala,Si,4,Satisfecho
+1708732800,Cirugia,9,82,2246,Eddi,2,5,3,2,Mala,Si,3,Satisfecho
+1735257600,Consulta,13,58,1960,Eddi,5,3,1,5,Regular,No,4,Satisfecho
+1776124800,Consulta,47,173,3985,Eddi,4,5,4,2,Mala,No,2,Satisfecho
+1741910400,Cirugia,46,10,1837,Eddi,3,5,1,1,Buena,No,3,Satisfecho
+1782000000,Vacunacion,25,173,407,Eddi,4,1,4,1,Pesimo,Si,2,Satisfecho
+1779667200,Cirugia,12,98,1817,Eddi,4,4,5,2,Regular,Si,1,Satisfecho
+1771718400,Desparasitacion,31,41,2710,Eddi,4,2,3,2,Mala,No,5,Satisfecho
+1760745600,Cirugia,54,131,4719,Eddi,3,5,3,2,Pesima,No,2,Satisfecho
+1762128000,Vacunacion,32,176,3485,Eddi,4,5,5,4,Buena,No,2,Satisfecho
+1785456000,Desparasitacion,19,51,1314,Eddi,2,3,1,1,Buena,Si,4,Satisfecho
+1746144000,Desparasitacion,40,61,1812,Eddi,2,4,1,3,Pesimo,Si,5,Satisfecho
+1766102400,Desparasitacion,24,82,492,Eddi,2,3,5,5,Pesima,No,5,Satisfecho
+1720742400,Cirugia,30,36,3746,Eddi,4,4,2,4,Pesima,Si,1,Satisfecho
+1741219200,Consulta,43,127,1386,Eddi,1,1,1,4,Buena,Si,1,Satisfecho
+1708387200,Cirugia,32,22,2594,Eddi,2,4,5,2,Regular,Si,3,Satisfecho
+1705363200,Consulta,55,86,427,Eddi,5,5,2,2,Pesimo,No,4,Satisfecho
+1784764800,Desparasitacion,41,43,102,Eddi,2,5,1,2,Pesimo,No,1,Satisfecho
+1785542400,Consulta,53,150,1934,Eddi,5,4,5,5,Mala,Si,1,Satisfecho
+1776816000,Consulta,44,140,2577,Eddi,5,4,5,3,Mala,Si,5,Satisfecho
+1763251200,Vacunacion,56,152,1993,Eddi,1,2,4,1,Regular,No,2,Satisfecho
+1705017600,Cirugia,50,55,1663,Eddi,2,4,1,4,Pesimo,Si,4,Satisfecho
+1711929600,Desparasitacion,5,49,3350,Eddi,2,4,4,2,Pesimo,No,1,Satisfecho
+1777852800,Cirugia,41,41,3802,Eddi,5,1,1,5,Regular,No,2,Satisfecho
+1775347200,Desparasitacion,40,100,2869,Eddi,3,2,2,5,Mala,No,2,Satisfecho
+1733356800,Desparasitacion,42,109,3389,Eddi,3,5,2,4,Pesimo,Si,2,Satisfecho
+1754784000,Cirugia,33,132,4542,Eddi,1,1,4,4,Buena,No,3,Satisfecho
+1779494400,Consulta,28,171,3008,Eddi,1,2,1,2,Regular,No,1,Satisfecho
+1783641600,Cirugia,39,129,486,Eddi,2,2,3,5,Buena,Si,1,Satisfecho
+1761177600,Cirugia,59,161,1869,Eddi,3,5,4,3,Mala,Si,1,Satisfecho
+1781049600,Cirugia,45,106,1148,Eddi,3,2,2,2,Mala,Si,4,Satisfecho
+1776988800,Consulta,5,143,3470,Eddi,1,2,4,1,Pesimo,No,5,Satisfecho
+1750636800,Vacunacion,25,28,2951,Eddi,2,5,3,1,Pesima,Si,4,Satisfecho
+1714521600,Consulta,42,147,747,Eddi,2,1,5,4,Pesimo,Si,1,Satisfecho
+1750723200,Cirugia,30,91,243,Eddi,2,1,4,1,Regular,Si,4,Satisfecho
+1750377600,Desparasitacion,5,111,2445,Eddi,4,5,1,5,Pesima,No,5,Satisfecho
+1753142400,Cirugia,11,94,1209,Eddi,5,1,2,5,Mala,Si,5,Satisfecho
+1768176000,Vacunacion,18,11,3857,Eddi,5,2,3,4,Buena,Si,4,Satisfecho
+1722211200,Cirugia,26,172,3028,Eddi,4,1,3,1,Pesima,No,1,Satisfecho
+1745107200,Desparasitacion,9,52,3040,Eddi,3,2,1,4,Pesima,No,5,Satisfecho
+1759536000,Desparasitacion,59,129,2764,Eddi,4,4,1,3,Pesimo,Si,3,Satisfecho
+1769385600,Vacunacion,33,115,3230,Eddi,5,5,2,3,Buena,No,4,Satisfecho
+1770163200,Cirugia,46,145,4981,Eddi,5,3,3,1,Pesima,Si,1,Satisfecho
+1716422400,Desparasitacion,6,79,2997,Eddi,1,2,3,3,Mala,No,4,Satisfecho
+1771632000,Desparasitacion,10,159,706,Eddi,2,2,4,4,Pesimo,No,5,Satisfecho
+1713571200,Desparasitacion,38,179,363,Eddi,1,4,5,3,Regular,No,4,Satisfecho
+1788825600,Desparasitacion,29,30,4678,Eddi,1,5,4,2,Mala,No,2,Satisfecho
+1774656000,Cirugia,38,89,2858,Eddi,3,4,3,1,Buena,Si,4,Satisfecho
+1783555200,Consulta,43,67,2418,Eddi,2,2,2,4,Buena,No,3,Satisfecho
+1784073600,Consulta,18,91,2434,Eddi,4,5,3,5,Buena,Si,3,Satisfecho
+1748390400,Vacunacion,47,55,1108,Eddi,4,2,3,2,Pesima,No,2,Satisfecho
+1756944000,Desparasitacion,55,44,3810,Eddi,5,3,5,2,Pesima,No,4,Satisfecho
+1710201600,Vacunacion,55,14,4608,Eddi,4,3,2,1,Regular,Si,5,Satisfecho
+1729900800,Desparasitacion,41,70,1777,Eddi,4,1,3,3,Pesimo,Si,2,Satisfecho
+1768780800,Vacunacion,13,159,2771,Eddi,2,1,2,3,Pesimo,No,5,Satisfecho
+1770940800,Vacunacion,16,14,2201,Eddi,5,3,3,2,Mala,No,1,Satisfecho
+1718236800,Vacunacion,36,23,1256,Eddi,2,1,5,2,Buena,Si,1,Satisfecho
+1744243200,Cirugia,17,35,4228,Eddi,3,3,5,5,Buena,No,5,Satisfecho
+1780272000,Cirugia,20,146,4692,Eddi,4,2,5,2,Buena,No,5,Satisfecho
+1775260800,Desparasitacion,37,75,3872,Eddi,3,2,2,5,Pesimo,Si,4,Satisfecho
+1754611200,Cirugia,37,55,232,Eddi,2,2,2,5,Pesimo,No,4,Satisfecho
+1785196800,Vacunacion,27,175,4095,Eddi,3,5,4,4,Regular,Si,3,Satisfecho
+1719100800,Desparasitacion,22,88,1069,Eddi,1,3,5,3,Pesima,Si,4,Satisfecho
+1744675200,Consulta,28,68,3839,Eddi,1,2,2,2,Pesima,No,1,Satisfecho
+1715904000,Consulta,24,26,2680,Eddi,3,1,3,2,Regular,No,2,Satisfecho
+1788048000,Consulta,53,96,4038,Eddi,4,3,4,1,Pesimo,No,1,Satisfecho
+1778976000,Vacunacion,14,52,2744,Eddi,5,3,2,2,Buena,Si,4,Satisfecho
+1762560000,Desparasitacion,36,78,3293,Eddi,2,3,3,5,Pesimo,Si,3,Satisfecho
+1764633600,Desparasitacion,52,127,3596,Eddi,3,2,3,3,Pesimo,Si,1,Satisfecho
+1761782400,Consulta,41,161,4070,Eddi,2,2,1,5,Regular,Si,4,Satisfecho
+1782950400,Vacunacion,54,142,4777,Eddi,5,1,3,3,Regular,No,3,Satisfecho
+1717200000,Consulta,59,157,3938,Eddi,3,4,1,2,Regular,No,2,Satisfecho
+1755734400,Desparasitacion,45,60,4729,Eddi,5,3,2,5,Mala,Si,4,Satisfecho
+1760486400,Consulta,59,18,1906,Eddi,5,5,4,3,Regular,Si,3,Satisfecho
+1777248000,Vacunacion,44,126,3687,Eddi,3,5,1,1,Pesima,Si,3,Satisfecho
+1751414400,Vacunacion,55,63,2311,Eddi,5,5,2,3,Mala,No,2,Satisfecho
+1705536000,Desparasitacion,51,61,4335,Eddi,4,3,4,2,Pesimo,Si,3,Satisfecho
+1708214400,Vacunacion,59,12,1617,Eddi,1,5,5,2,Buena,Si,4,Satisfecho
+1779753600,Vacunacion,35,139,4793,Eddi,1,5,3,1,Pesima,Si,5,Satisfecho
+1733443200,Cirugia,41,145,2872,Eddi,5,1,1,1,Buena,Si,4,Satisfecho
+1719273600,Cirugia,46,67,4306,Eddi,3,2,5,3,Mala,Si,5,Satisfecho
+1768435200,Vacunacion,6,107,3190,Eddi,2,3,5,1,Regular,Si,2,Satisfecho
+1767571200,Cirugia,50,53,835,Eddi,4,3,5,4,Regular,No,4,Satisfecho
+1762387200,Consulta,38,156,1524,Eddi,5,5,1,1,Buena,Si,4,Satisfecho
+1730332800,Vacunacion,6,82,2374,Eddi,3,2,4,3,Pesima,No,1,Satisfecho
+1706832000,Desparasitacion,53,129,2370,Eddi,5,4,4,5,Buena,No,2,Satisfecho
+1708905600,Desparasitacion,7,151,2758,Eddi,1,3,5,1,Buena,Si,3,Satisfecho
+1709164800,Consulta,41,20,4808,Eddi,3,2,1,1,Pesima,No,5,Satisfecho
+1704412800,Cirugia,57,97,409,Eddi,1,2,3,3,Buena,No,3,Satisfecho
+1730678400,Desparasitacion,8,123,2841,Eddi,1,4,4,1,Pesima,No,4,Satisfecho
+1753488000,Consulta,31,165,390,Eddi,1,1,4,2,Mala,No,2,Satisfecho
+1785369600,Consulta,43,30,4499,Eddi,1,2,2,4,Mala,No,1,Satisfecho
+1783123200,Vacunacion,33,71,1100,Eddi,4,1,4,2,Pesimo,No,5,Satisfecho
+1766275200,Vacunacion,41,106,4702,Eddi,5,1,2,5,Buena,No,5,Satisfecho
+1766448000,Desparasitacion,34,79,4508,Eddi,4,2,3,2,Pesimo,Si,5,Satisfecho
+1740873600,Consulta,57,56,2288,Eddi,5,5,4,5,Pesima,No,2,Satisfecho
+1754956800,Consulta,26,160,1406,Eddi,5,5,1,2,Buena,Si,2,Satisfecho
+1765497600,Vacunacion,15,41,3325,Eddi,4,1,1,5,Pesimo,Si,4,Satisfecho
+1741478400,Desparasitacion,10,102,3423,Eddi,3,2,1,5,Mala,Si,3,Satisfecho
+1733011200,Desparasitacion,51,54,4704,Eddi,3,3,3,3,Pesimo,Si,4,Satisfecho
+1719964800,Consulta,30,128,2175,Eddi,2,5,2,1,Regular,Si,3,Satisfecho
+1778112000,Cirugia,55,101,1359,Eddi,4,3,2,4,Buena,Si,5,Satisfecho
+1734912000,Desparasitacion,6,102,2641,Eddi,1,5,4,4,Regular,Si,5,Satisfecho
+1718409600,Desparasitacion,31,173,1219,Eddi,2,3,2,5,Mala,No,1,Satisfecho
+1737072000,Desparasitacion,39,15,3607,Eddi,2,5,5,2,Regular,Si,5,Satisfecho
+1765411200,Cirugia,24,51,1513,Eddi,4,1,5,4,Pesima,Si,3,Satisfecho
+1766361600,Cirugia,42,132,1228,Eddi,5,4,2,5,Regular,Si,4,Satisfecho
+1738627200,Desparasitacion,30,87,1765,Eddi,1,2,2,4,Mala,Si,5,Satisfecho
+1742169600,Desparasitacion,51,17,1188,Eddi,1,2,3,1,Mala,No,2,Satisfecho
+1709683200,Vacunacion,21,162,1418,Eddi,2,4,5,4,Pesimo,No,5,Satisfecho
+1709856000,Consulta,18,179,3918,Eddi,3,4,3,5,Pesima,No,4,Satisfecho
+1767225600,Consulta,28,158,2219,Eddi,2,2,1,1,Buena,Si,3,Satisfecho
+1732060800,Vacunacion,9,136,1864,Eddi,4,1,2,4,Regular,No,5,Satisfecho
+1704931200,Cirugia,17,72,1877,Eddi,5,1,4,5,Buena,Si,5,Satisfecho
+1739577600,Desparasitacion,18,23,4434,Eddi,3,2,1,3,Buena,Si,5,Satisfecho
+1708300800,Vacunacion,10,169,88,Eddi,2,5,3,5,Pesimo,No,2,Satisfecho
+1787184000,Vacunacion,17,88,2721,Eddi,1,3,5,5,Buena,No,1,Satisfecho
+1730505600,Desparasitacion,32,169,1227,Eddi,4,1,4,4,Buena,Si,1,Satisfecho
+1768953600,Consulta,26,45,4966,Eddi,3,1,2,4,Regular,Si,1,Satisfecho
+1705276800,Desparasitacion,22,71,4362,Eddi,3,3,4,1,Regular,Si,1,Satisfecho
+1712707200,Cirugia,27,101,3131,Eddi,5,5,5,2,Pesima,No,4,Satisfecho
+1729468800,Vacunacion,59,152,3207,Eddi,3,2,3,1,Regular,Si,5,Satisfecho
+1745625600,Vacunacion,6,47,2562,Eddi,3,2,3,4,Pesima,Si,2,Satisfecho
+1764374400,Vacunacion,27,155,2061,Eddi,1,5,4,2,Regular,No,4,Satisfecho
+1757289600,Consulta,33,173,3794,Eddi,2,3,4,5,Pesima,No,2,Satisfecho
+1705104000,Cirugia,39,97,1690,Eddi,4,4,5,3,Pesima,No,1,Satisfecho
+1725408000,Consulta,21,148,1472,Eddi,4,2,4,3,Buena,Si,3,Satisfecho
+1738800000,Cirugia,29,128,4186,Eddi,3,5,5,5,Mala,Si,3,Satisfecho
+1714348800,Consulta,38,32,3945,Eddi,5,5,5,4,Mala,Si,5,Satisfecho
+1708473600,Vacunacion,21,129,4925,Eddi,2,1,3,2,Pesimo,No,2,Satisfecho
+1721952000,Desparasitacion,56,175,1675,Eddi,5,5,5,2,Buena,No,2,Satisfecho
+1768089600,Vacunacion,21,139,2206,Eddi,5,2,5,3,Pesimo,Si,4,Satisfecho
+1723680000,Vacunacion,47,140,212,Eddi,4,3,2,1,Regular,No,1,Muy satisfecho
+1789862400,Desparasitacion,8,105,2307,Eddi,1,2,4,1,Pesimo,Si,1,Muy satisfecho
+1709251200,Cirugia,57,114,1809,Eddi,5,2,3,4,Pesima,No,1,Muy satisfecho
+1749686400,Vacunacion,55,98,455,Eddi,5,5,3,3,Buena,Si,2,Muy satisfecho
+1730073600,Consulta,28,143,1904,Eddi,3,3,4,2,Pesima,Si,5,Muy satisfecho
+1764028800,Vacunacion,11,73,2656,Eddi,1,3,1,2,Pesima,Si,3,Muy satisfecho
+1708646400,Desparasitacion,35,98,3040,Eddi,3,4,3,4,Buena,Si,4,Muy satisfecho
+1726963200,Vacunacion,53,97,4529,Eddi,2,3,1,3,Buena,Si,1,Muy satisfecho
+1768262400,Consulta,13,111,1351,Eddi,5,2,2,5,Buena,Si,2,Muy satisfecho
+1712448000,Desparasitacion,21,156,1905,Eddi,4,5,1,2,Regular,Si,4,Muy satisfecho
+1764892800,Consulta,33,178,2978,Eddi,3,4,2,3,Pesima,Si,5,Muy satisfecho
+1718150400,Desparasitacion,7,59,4328,Eddi,5,2,1,5,Buena,Si,1,Muy satisfecho
+1745712000,Consulta,31,93,335,Eddi,2,1,2,3,Pesima,No,3,Muy satisfecho
+1706486400,Desparasitacion,5,116,3409,Eddi,2,5,3,2,Regular,No,4,Muy satisfecho
+1755129600,Desparasitacion,32,89,3679,Eddi,1,1,1,4,Regular,Si,1,Muy satisfecho
+1716336000,Desparasitacion,57,172,4481,Eddi,3,1,1,1,Buena,No,5,Muy satisfecho
+1767484800,Vacunacion,34,76,3208,Eddi,3,5,4,3,Mala,Si,2,Muy satisfecho
+1764460800,Cirugia,25,76,1492,Eddi,3,2,1,3,Buena,No,4,Muy satisfecho
+1719014400,Desparasitacion,9,120,1376,Eddi,1,3,2,1,Regular,Si,3,Muy satisfecho
+1777075200,Consulta,29,34,4828,Eddi,2,1,5,5,Buena,Si,3,Muy satisfecho
+1756512000,Desparasitacion,5,126,4665,Eddi,2,1,2,4,Pesimo,Si,5,Muy satisfecho
+1756598400,Desparasitacion,36,61,223,Eddi,1,5,3,5,Mala,No,2,Muy satisfecho
+1773360000,Consulta,57,159,2010,Eddi,5,3,1,3,Pesimo,No,5,Muy satisfecho
+1786147200,Cirugia,37,138,2487,Eddi,2,5,4,3,Buena,No,3,Muy satisfecho
+1778716800,Desparasitacion,48,143,3609,Eddi,3,3,5,4,Pesimo,Si,2,Muy satisfecho
+1729555200,Desparasitacion,7,115,4733,Eddi,5,1,1,5,Regular,No,1,Muy satisfecho
+1788393600,Desparasitacion,20,161,572,Eddi,1,3,2,1,Pesima,Si,1,Muy satisfecho
+1706918400,Vacunacion,15,15,985,Eddi,2,3,3,2,Pesimo,Si,2,Muy satisfecho
+1740528000,Vacunacion,51,177,4269,Eddi,5,5,4,3,Mala,Si,1,Muy satisfecho
+1770422400,Desparasitacion,42,39,1677,Eddi,2,1,5,5,Pesima,No,2,Muy satisfecho
+1781913600,Desparasitacion,30,61,2180,Eddi,4,2,5,3,Pesimo,Si,4,Muy satisfecho
+1740096000,Vacunacion,19,98,2345,Eddi,3,5,1,1,Mala,No,1,Muy satisfecho
+1710115200,Vacunacion,5,34,4358,Eddi,5,4,3,2,Buena,Si,4,Muy satisfecho
+1775692800,Desparasitacion,39,19,3169,Eddi,1,5,1,4,Regular,No,1,Muy satisfecho
+1767657600,Desparasitacion,27,134,2466,Eddi,2,5,5,2,Regular,No,4,Muy satisfecho
+1771113600,Consulta,57,117,3785,Eddi,1,5,3,5,Mala,Si,5,Muy satisfecho
+1714867200,Desparasitacion,34,48,1979,Eddi,2,1,4,2,Buena,No,1,Muy satisfecho
+1757462400,Cirugia,49,155,469,Eddi,4,3,1,4,Buena,Si,3,Muy satisfecho
+1748736000,Vacunacion,52,40,2577,Eddi,5,1,3,3,Mala,No,5,Muy satisfecho
+1740700800,Desparasitacion,6,54,904,Eddi,5,4,3,2,Regular,No,4,Muy satisfecho
+1782432000,Cirugia,57,71,2208,Eddi,2,5,4,4,Pesimo,No,5,Muy satisfecho
+1754265600,Consulta,56,24,905,Eddi,1,5,2,3,Mala,Si,5,Muy satisfecho
+1724284800,Desparasitacion,19,55,3303,Eddi,3,4,3,4,Pesima,No,5,Muy satisfecho
+1756080000,Desparasitacion,26,150,3389,Eddi,1,5,2,2,Buena,Si,3,Muy satisfecho
+1789430400,Vacunacion,7,37,3424,Eddi,3,4,3,5,Buena,No,5,Muy satisfecho
+1754524800,Vacunacion,28,79,3692,Eddi,2,2,2,4,Pesima,Si,4,Muy satisfecho
+1731456000,Consulta,19,16,4020,Eddi,4,2,1,5,Pesimo,Si,5,Muy satisfecho
+1726704000,Consulta,51,178,1988,Eddi,5,5,4,3,Regular,Si,1,Muy satisfecho
+1752105600,Desparasitacion,14,69,3501,Eddi,3,3,3,4,Pesimo,Si,3,Muy satisfecho
+1766620800,Consulta,38,22,3684,Eddi,4,4,2,1,Pesimo,Si,2,Muy satisfecho
+1706659200,Consulta,36,178,571,Eddi,2,1,4,1,Buena,No,4,Muy satisfecho
+1711756800,Vacunacion,54,76,2510,Eddi,5,4,5,3,Regular,No,1,Muy satisfecho
+1780963200,Cirugia,30,153,1431,Eddi,5,2,2,4,Regular,No,4,Muy satisfecho
+1773792000,Consulta,25,21,2717,Eddi,1,5,5,4,Regular,Si,4,Muy satisfecho
+1764201600,Cirugia,11,16,3323,Eddi,4,5,2,3,Pesimo,Si,1,Muy satisfecho
+1741305600,Vacunacion,55,23,3750,Eddi,3,2,5,3,Regular,Si,1,Muy satisfecho
+1728518400,Cirugia,10,167,2707,Eddi,1,3,5,4,Pesimo,No,3,Muy satisfecho
+1716163200,Desparasitacion,38,97,4671,Eddi,2,2,5,3,Buena,Si,2,Muy satisfecho
+1756339200,Cirugia,53,87,1037,Eddi,4,4,3,2,Buena,Si,2,Muy satisfecho
+1779840000,Vacunacion,25,135,2285,Eddi,4,4,1,1,Regular,No,1,Muy satisfecho
+1707264000,Consulta,26,56,4991,Eddi,5,4,5,5,Mala,No,2,Muy satisfecho
+1783382400,Desparasitacion,34,158,1638,Eddi,3,1,3,1,Buena,No,5,Muy satisfecho
+1752883200,Vacunacion,15,83,2146,Eddi,2,1,1,3,Regular,No,2,Muy satisfecho
+1747180800,Desparasitacion,27,95,2529,Eddi,4,1,5,4,Mala,Si,3,Muy satisfecho
+1774742400,Desparasitacion,59,16,3875,Eddi,5,5,4,3,Regular,No,5,Muy satisfecho
+1739750400,Consulta,55,139,2990,Eddi,1,3,1,3,Regular,Si,2,Muy satisfecho
+1724544000,Vacunacion,41,26,254,Eddi,2,3,5,3,Pesimo,No,2,Muy satisfecho
+1718755200,Desparasitacion,55,148,2860,Eddi,5,2,4,5,Pesimo,Si,5,Muy satisfecho
+1719619200,Consulta,5,108,709,Eddi,4,3,4,2,Mala,No,5,Muy satisfecho
+1735776000,Vacunacion,42,13,1175,Eddi,3,4,4,2,Pesimo,No,5,Muy satisfecho
+1766880000,Cirugia,39,139,960,Eddi,1,2,2,4,Mala,Si,1,Muy satisfecho
+1731628800,Vacunacion,12,141,1117,Eddi,4,3,1,5,Pesima,Si,3,Muy satisfecho
+1768867200,Desparasitacion,58,53,414,Eddi,3,4,5,5,Pesima,No,5,Muy satisfecho
+1716940800,Desparasitacion,55,88,3309,Eddi,5,4,2,3,Pesima,Si,5,Muy satisfecho
+1742515200,Cirugia,34,127,1516,Eddi,5,1,4,5,Pesimo,Si,5,Muy satisfecho
+1727308800,Cirugia,45,130,944,Eddi,5,3,5,5,Buena,No,1,Muy satisfecho
+1735948800,Cirugia,39,135,1644,Eddi,3,3,4,5,Regular,No,3,Muy satisfecho
+1790294400,Desparasitacion,5,120,4474,Eddi,4,4,2,3,Pesima,Si,4,Muy satisfecho
+1714003200,Desparasitacion,34,142,3539,Eddi,5,3,4,4,Pesima,Si,1,Muy satisfecho
+1721260800,Cirugia,52,110,4036,Eddi,1,2,4,4,Buena,No,3,Muy satisfecho
+1722816000,Consulta,6,36,735,Eddi,1,4,3,2,Mala,No,2,Muy satisfecho
+1754870400,Desparasitacion,47,30,1567,Eddi,3,2,2,3,Regular,Si,5,Muy satisfecho
+1788739200,Desparasitacion,34,157,1679,Eddi,1,4,5,3,Pesimo,Si,2,Muy satisfecho
+1752364800,Vacunacion,30,58,2190,Eddi,4,3,3,2,Pesimo,Si,5,Muy satisfecho
+1772496000,Consulta,21,114,1758,Eddi,5,2,2,5,Pesimo,No,2,Muy satisfecho
+1731801600,Consulta,55,67,1061,Eddi,1,2,5,5,Mala,Si,3,Muy satisfecho
+1731888000,Desparasitacion,49,31,2324,Eddi,5,3,1,4,Buena,No,4,Muy satisfecho
+1748649600,Desparasitacion,40,156,777,Eddi,5,3,1,1,Pesimo,Si,5,Muy satisfecho
+1763942400,Desparasitacion,22,11,3314,Eddi,3,4,4,4,Buena,No,5,Muy satisfecho
+1744070400,Consulta,58,46,2017,Eddi,4,5,1,4,Buena,No,2,Muy satisfecho
+1719792000,Vacunacion,45,48,448,Eddi,1,3,3,1,Pesima,No,5,Muy satisfecho
+1780617600,Consulta,22,165,3386,Eddi,3,3,5,1,Buena,Si,1,Muy satisfecho
+1768694400,Consulta,43,17,1982,Eddi,2,2,4,4,Buena,No,3,Muy satisfecho
+1738540800,Consulta,18,23,1748,Eddi,1,3,2,5,Pesimo,Si,2,Muy satisfecho
+1705795200,Vacunacion,14,81,3797,Eddi,4,1,2,5,Pesimo,Si,2,Muy satisfecho
+1721433600,Desparasitacion,30,15,596,Eddi,4,2,5,3,Pesimo,Si,1,Muy satisfecho
+1768348800,Cirugia,44,44,4213,Eddi,1,4,2,2,Pesimo,No,3,Muy satisfecho
+1779062400,Cirugia,59,139,4724,Eddi,4,1,4,2,Mala,No,5,Muy satisfecho
+1764547200,Vacunacion,23,51,3104,Eddi,5,1,5,3,Pesima,Si,5,Muy satisfecho
+1728777600,Consulta,8,125,3638,Eddi,4,5,2,3,Pesimo,No,4,Muy satisfecho
+1722902400,Desparasitacion,49,81,4333,Eddi,3,5,4,2,Pesimo,Si,2,Muy satisfecho
+1786320000,Consulta,49,69,717,Eddi,2,2,5,5,Pesima,Si,3,Muy satisfecho
+1749945600,Desparasitacion,44,86,3790,Eddi,4,1,4,4,Mala,Si,4,Muy satisfecho
+1712016000,Vacunacion,58,107,411,Eddi,2,2,2,5,Mala,Si,5,Muy satisfecho
+1709942400,Desparasitacion,13,18,3587,Eddi,4,3,2,5,Mala,No,5,Muy satisfecho
+1712880000,Vacunacion,41,68,4017,Eddi,5,5,3,4,Regular,No,1,Muy satisfecho
+1763856000,Consulta,52,162,4978,Eddi,3,5,1,5,Buena,Si,5,Muy satisfecho
+1770336000,Desparasitacion,45,153,3506,Eddi,2,1,1,2,Pesimo,No,1,Muy satisfecho
+1738022400,Desparasitacion,34,108,4129,Eddi,4,1,5,5,Regular,Si,2,Muy satisfecho
+1709510400,Consulta,14,38,711,Eddi,4,3,2,4,Buena,No,3,Muy satisfecho
+1733616000,Cirugia,40,62,2974,Eddi,4,2,1,3,Pesima,No,2,Muy satisfecho
+1761523200,Consulta,12,46,3550,Eddi,3,5,4,2,Pesima,Si,1,Muy satisfecho
+1748217600,Vacunacion,51,81,2094,Eddi,5,2,2,5,Buena,Si,3,Muy satisfecho
+1745884800,Consulta,55,137,2417,Eddi,1,2,3,3,Pesima,Si,4,Muy satisfecho
+1717459200,Vacunacion,15,26,713,Eddi,2,2,2,1,Pesima,Si,3,Muy satisfecho
+1773532800,Vacunacion,55,95,932,Eddi,4,5,2,5,Mala,Si,5,Muy satisfecho
+1719360000,Cirugia,26,35,2498,Eddi,1,4,4,2,Mala,No,5,Muy satisfecho
+1736640000,Consulta,57,107,3119,Eddi,2,5,1,2,Pesima,Si,5,Muy satisfecho
+1715126400,Desparasitacion,55,109,1878,Eddi,5,5,2,4,Regular,No,4,Muy satisfecho
+1736726400,Vacunacion,15,75,276,Eddi,1,2,2,2,Pesima,Si,3,Muy satisfecho
+1733097600,Consulta,5,131,2335,Eddi,3,2,3,5,Pesimo,No,2,Muy satisfecho
+1772755200,Cirugia,32,84,2343,Eddi,3,4,5,5,Pesima,No,5,Muy satisfecho
+1724803200,Vacunacion,43,18,1769,Eddi,2,2,2,2,Regular,Si,1,Muy satisfecho
+1762041600,Vacunacion,37,69,3309,Eddi,5,1,4,2,Pesima,No,4,Muy satisfecho
+1734393600,Consulta,27,65,737,Eddi,2,1,1,5,Mala,No,2,Muy satisfecho
+1789689600,Desparasitacion,34,14,941,Eddi,5,3,5,1,Mala,Si,3,Muy satisfecho
+1753401600,Cirugia,38,57,4747,Eddi,2,3,5,1,Buena,No,2,Muy satisfecho
+1781136000,Consulta,49,13,3476,Eddi,4,2,4,5,Buena,No,4,Muy satisfecho
+1760054400,Desparasitacion,23,159,4058,Eddi,4,4,2,5,Regular,Si,1,Muy satisfecho
+1758844800,Vacunacion,54,179,2046,Eddi,4,3,5,1,Buena,No,5,Muy satisfecho
+1718064000,Desparasitacion,29,129,4885,Eddi,3,1,5,4,Regular,No,1,Muy satisfecho
+1704240000,Consulta,13,58,3769,Eddi,2,5,5,3,Pesimo,No,2,Muy satisfecho
+1745798400,Vacunacion,35,160,314,Eddi,2,3,2,3,Pesima,Si,2,Muy satisfecho
+1740441600,Vacunacion,37,14,2551,Eddi,2,5,1,5,Regular,Si,3,Muy satisfecho
+1782864000,Consulta,12,95,1023,Eddi,5,2,2,5,Regular,Si,4,Muy satisfecho
+1737331200,Desparasitacion,44,124,1949,Eddi,5,3,4,3,Regular,Si,2,Muy satisfecho
+1740355200,Vacunacion,21,172,2008,Eddi,1,2,2,2,Pesimo,Si,5,Muy satisfecho
+1746403200,Desparasitacion,31,128,2319,Eddi,5,4,4,5,Pesima,Si,2,Muy satisfecho
+1772582400,Desparasitacion,30,94,3680,Eddi,5,5,2,2,Pesima,Si,4,Muy satisfecho
+1746662400,Vacunacion,15,138,1037,Eddi,3,4,5,2,Regular,Si,1,Muy satisfecho
+1710374400,Vacunacion,17,133,3728,Eddi,2,2,4,2,Regular,No,3,Muy satisfecho
+1761696000,Desparasitacion,51,59,2170,Eddi,2,3,1,2,Pesimo,No,1,Muy satisfecho
+1743379200,Cirugia,37,165,645,Eddi,4,1,1,2,Pesimo,No,2,Muy satisfecho
+1712534400,Vacunacion,52,89,3612,Eddi,4,5,2,5,Pesima,Si,1,Muy satisfecho
+1770768000,Consulta,29,113,3220,Eddi,4,3,3,4,Pesima,No,1,Muy satisfecho
+1711152000,Consulta,12,90,1426,Eddi,5,4,1,2,Pesimo,Si,5,Muy satisfecho
+1712620800,Consulta,51,177,2570,Eddi,3,1,2,5,Mala,No,4,Muy satisfecho
+1723766400,Consulta,51,102,2024,Eddi,5,3,4,4,Pesima,No,4,Muy satisfecho
+1735603200,Cirugia,19,157,1333,Eddi,3,4,4,4,Regular,No,2,Muy satisfecho
+1725062400,Consulta,26,126,924,Eddi,2,2,3,1,Regular,No,5,Muy satisfecho
+1760659200,Consulta,36,19,1286,Eddi,3,1,3,1,Regular,Si,1,Muy satisfecho
+1775001600,Desparasitacion,58,152,4227,Eddi,4,5,5,4,Mala,No,5,Muy satisfecho
+1723075200,Cirugia,18,154,4693,Eddi,4,3,2,3,Pesimo,Si,5,Muy satisfecho
+1783987200,Cirugia,21,22,1354,Eddi,1,2,4,4,Pesima,Si,2,Muy satisfecho
+1782691200,Cirugia,55,101,3001,Eddi,1,5,5,3,Regular,No,5,Muy satisfecho
+1750896000,Cirugia,40,32,1235,Eddi,4,4,3,3,Pesima,Si,2,Muy satisfecho
+1732147200,Vacunacion,10,12,2476,Eddi,5,4,4,2,Pesimo,Si,4,Muy satisfecho
+1721520000,Cirugia,40,156,4726,Eddi,2,5,1,2,Mala,No,2,Muy satisfecho
+1707782400,Desparasitacion,45,132,3409,Eddi,2,3,5,4,Regular,No,5,Muy satisfecho
+1769126400,Vacunacion,50,40,996,Eddi,3,2,1,4,Mala,Si,3,Muy satisfecho
+1742428800,Desparasitacion,56,73,2504,Eddi,2,3,4,4,Mala,Si,1,Muy satisfecho
+1770249600,Consulta,40,12,1572,Eddi,4,1,3,1,Buena,No,4,Muy satisfecho
+1713916800,Cirugia,22,16,1087,Eddi,3,4,4,3,Regular,Si,4,Muy satisfecho
+1756771200,Consulta,34,166,3102,Eddi,2,5,5,4,Pesima,Si,3,Muy satisfecho
+1788220800,Desparasitacion,57,138,978,Eddi,3,1,5,5,Buena,Si,2,Muy satisfecho
+1710979200,Cirugia,32,69,2518,Eddi,5,1,3,1,Regular,Si,1,Muy satisfecho
+1774828800,Consulta,51,23,3586,Eddi,4,4,5,5,Buena,No,1,Muy satisfecho
+1714694400,Cirugia,28,116,1454,Eddi,4,3,4,3,Pesima,Si,1,Muy satisfecho
+1765584000,Consulta,46,176,4978,Eddi,1,1,4,1,Mala,Si,3,Muy satisfecho
+1785110400,Vacunacion,59,166,3752,Eddi,4,1,3,3,Buena,No,2,Muy satisfecho
+1732665600,Consulta,37,96,2605,Eddi,5,1,2,1,Mala,No,4,Muy satisfecho
+1759104000,Cirugia,55,93,4708,Eddi,1,4,1,1,Buena,Si,1,Muy satisfecho
+1724889600,Cirugia,21,175,2693,Eddi,3,4,2,4,Pesimo,No,5,Muy satisfecho
+1775952000,Cirugia,21,63,165,Eddi,2,4,3,1,Mala,Si,4,Muy satisfecho
+1736208000,Vacunacion,53,59,1610,Eddi,1,4,5,2,Mala,Si,4,Muy satisfecho
+1720828800,Cirugia,51,90,1935,Eddi,2,2,5,2,Mala,Si,2,Muy satisfecho
+1725926400,Consulta,7,91,3787,Eddi,5,4,5,4,Buena,No,2,Muy satisfecho
+1769731200,Desparasitacion,41,153,432,Eddi,4,4,5,3,Pesima,Si,3,Muy satisfecho
+1747699200,Consulta,30,154,1542,Eddi,4,4,5,3,Pesimo,Si,5,Muy satisfecho
+1715472000,Consulta,8,48,2135,Eddi,3,2,2,3,Regular,No,2,Muy satisfecho
+1787961600,Cirugia,33,86,3846,Eddi,5,1,4,2,Pesima,Si,3,Muy satisfecho
+1733184000,Cirugia,30,156,4613,Eddi,4,5,3,5,Mala,No,3,Muy satisfecho
+1773619200,Desparasitacion,30,69,2244,Eddi,5,4,5,2,Pesimo,No,4,Muy satisfecho
+1786579200,Cirugia,6,106,4282,Eddi,4,1,3,3,Buena,No,3,Muy satisfecho
+1772928000,Cirugia,6,160,3879,Eddi,4,5,2,4,Regular,Si,5,Muy satisfecho
+1729209600,Cirugia,28,112,4580,Eddi,1,5,5,4,Regular,Si,1,Muy satisfecho
+1753228800,Cirugia,22,35,4700,Eddi,5,3,3,2,Regular,Si,4,Muy satisfecho
+1741392000,Consulta,10,89,998,Eddi,3,1,3,1,Pesima,Si,3,Muy satisfecho
+1715817600,Consulta,21,122,3240,Eddi,5,2,2,4,Regular,No,3,Muy satisfecho
+1708041600,Desparasitacion,25,71,4038,Eddi,4,5,4,3,Mala,No,4,Completamente satisfecho
+1738281600,Desparasitacion,41,109,1291,Eddi,1,3,2,3,Pesimo,No,1,Completamente satisfecho
+1708560000,Cirugia,9,134,1306,Eddi,4,4,5,2,Mala,No,1,Completamente satisfecho
+1708992000,Consulta,57,110,351,Eddi,1,3,5,5,Mala,Si,3,Completamente satisfecho
+1787097600,Consulta,59,17,247,Eddi,1,5,1,5,Mala,Si,1,Completamente satisfecho
+1769904000,Consulta,10,154,349,Eddi,2,3,3,3,Regular,No,3,Completamente satisfecho
+1784419200,Cirugia,48,158,709,Eddi,1,2,2,2,Buena,No,5,Completamente satisfecho
+1737936000,Desparasitacion,18,152,1035,Eddi,2,1,4,1,Pesima,No,5,Completamente satisfecho
+1769299200,Vacunacion,30,64,1489,Eddi,3,5,5,5,Pesimo,No,1,Completamente satisfecho
+1782604800,Vacunacion,13,164,2392,Eddi,5,1,2,3,Pesima,Si,1,Completamente satisfecho
+1722297600,Cirugia,18,73,4786,Eddi,4,2,2,4,Regular,No,4,Completamente satisfecho
+1721088000,Desparasitacion,34,30,1950,Eddi,2,5,3,2,Buena,Si,2,Completamente satisfecho
+1744329600,Desparasitacion,35,38,2996,Eddi,4,1,4,3,Pesimo,No,2,Completamente satisfecho
+1751760000,Consulta,51,85,4925,Eddi,5,3,2,2,Buena,No,5,Completamente satisfecho
+1707609600,Cirugia,37,131,2511,Eddi,5,1,4,1,Regular,Si,1,Completamente satisfecho
+1704067200,Cirugia,58,82,3341,Eddi,4,5,4,4,Buena,Si,1,Completamente satisfecho
+1704758400,Cirugia,52,133,1012,Eddi,2,3,4,4,Buena,Si,3,Completamente satisfecho
+1736985600,Vacunacion,16,173,1445,Eddi,5,3,3,4,Buena,No,1,Completamente satisfecho
+1714953600,Vacunacion,59,168,1063,Eddi,3,3,1,2,Regular,Si,4,Completamente satisfecho
+1746489600,Consulta,9,17,90,Eddi,3,5,3,5,Buena,No,5,Completamente satisfecho
+1724976000,Desparasitacion,43,72,2347,Eddi,4,1,4,5,Mala,Si,1,Completamente satisfecho
+1765152000,Desparasitacion,5,28,979,Eddi,2,3,4,4,Regular,Si,4,Completamente satisfecho
+1752710400,Cirugia,29,108,1505,Eddi,4,1,4,4,Mala,No,1,Completamente satisfecho
+1741737600,Desparasitacion,55,103,442,Eddi,3,3,4,4,Pesima,Si,1,Completamente satisfecho
+1762473600,Desparasitacion,39,173,2292,Eddi,5,5,5,4,Pesima,Si,1,Completamente satisfecho
+1774310400,Desparasitacion,43,167,4544,Eddi,5,3,5,3,Buena,No,1,Completamente satisfecho
+1770508800,Consulta,38,32,1353,Eddi,3,3,2,5,Regular,No,5,Completamente satisfecho
+1732579200,Consulta,24,21,57,Eddi,2,4,2,1,Pesimo,No,2,Completamente satisfecho
+1743465600,Vacunacion,8,120,1954,Eddi,2,5,5,1,Mala,No,1,Completamente satisfecho
+1772841600,Consulta,50,76,3782,Eddi,4,5,2,5,Pesima,Si,3,Completamente satisfecho
+1717286400,Cirugia,20,105,3440,Eddi,5,5,4,5,Buena,Si,5,Completamente satisfecho
+1763424000,Consulta,58,169,3411,Eddi,2,5,3,2,Mala,Si,3,Completamente satisfecho
+1778803200,Consulta,53,169,3448,Eddi,1,2,5,3,Pesima,No,1,Completamente satisfecho
+1742601600,Cirugia,43,37,3724,Eddi,3,3,1,5,Regular,No,5,Completamente satisfecho
+1728086400,Consulta,37,177,4322,Eddi,2,3,5,3,Buena,Si,3,Completamente satisfecho
+1742774400,Cirugia,40,116,2647,Eddi,4,1,5,4,Regular,Si,4,Completamente satisfecho
+1718841600,Consulta,23,42,525,Eddi,1,4,3,5,Buena,Si,3,Completamente satisfecho
+1739404800,Vacunacion,43,134,2959,Eddi,1,3,3,5,Pesima,Si,3,Completamente satisfecho
+1705708800,Cirugia,6,68,2246,Eddi,3,3,2,1,Regular,No,2,Completamente satisfecho
+1778457600,Consulta,16,29,2361,Eddi,4,1,3,3,Regular,Si,5,Completamente satisfecho
+1776556800,Consulta,57,89,2384,Eddi,5,1,1,4,Pesimo,No,1,Completamente satisfecho
+1780704000,Vacunacion,29,124,4947,Eddi,2,4,2,3,Mala,No,4,Completamente satisfecho
+1755648000,Cirugia,24,45,3453,Eddi,3,3,5,4,Mala,Si,1,Completamente satisfecho
+1761350400,Vacunacion,28,163,1180,Eddi,5,2,4,5,Mala,No,5,Completamente satisfecho
+1720051200,Consulta,50,38,2221,Eddi,4,1,2,1,Regular,No,2,Completamente satisfecho
+1775174400,Cirugia,9,172,2020,Eddi,1,3,3,3,Buena,No,1,Completamente satisfecho
+1755475200,Desparasitacion,11,152,3741,Eddi,1,2,2,4,Pesimo,No,5,Completamente satisfecho
+1778544000,Vacunacion,23,155,2891,Eddi,1,1,4,5,Mala,No,5,Completamente satisfecho
+1772323200,Vacunacion,14,123,316,Eddi,4,2,5,5,Mala,No,1,Completamente satisfecho
+1723420800,Vacunacion,51,88,2511,Eddi,1,5,2,3,Pesimo,Si,4,Completamente satisfecho
+1784160000,Desparasitacion,35,169,232,Eddi,2,2,5,5,Pesimo,No,2,Completamente satisfecho
+1740614400,Cirugia,59,173,3880,Eddi,5,1,5,3,Buena,No,4,Completamente satisfecho
+1720915200,Vacunacion,26,135,2807,Eddi,5,2,3,1,Buena,Si,4,Completamente satisfecho
+1727049600,Desparasitacion,48,50,1981,Eddi,2,2,4,2,Mala,No,4,Completamente satisfecho
+1734566400,Desparasitacion,48,68,662,Eddi,1,3,2,5,Pesima,Si,4,Completamente satisfecho
+1758067200,Vacunacion,5,16,3499,Eddi,4,1,5,3,Pesimo,Si,5,Completamente satisfecho
+1718323200,Consulta,7,38,2578,Eddi,3,5,2,4,Mala,No,5,Completamente satisfecho
+1722038400,Vacunacion,19,24,3381,Eddi,2,1,3,5,Buena,Si,3,Completamente satisfecho
+1778284800,Cirugia,42,40,3284,Eddi,2,5,3,1,Pesima,Si,3,Completamente satisfecho
+1744934400,Desparasitacion,33,21,1581,Eddi,4,2,5,2,Mala,No,2,Completamente satisfecho
+1769040000,Vacunacion,47,86,2440,Eddi,1,4,3,3,Buena,Si,5,Completamente satisfecho
+1730246400,Vacunacion,10,15,2129,Eddi,1,1,2,5,Pesimo,Si,3,Completamente satisfecho
+1771804800,Vacunacion,44,170,2261,Eddi,4,1,3,4,Pesima,No,1,Completamente satisfecho
+1740787200,Consulta,18,160,689,Eddi,2,5,3,5,Regular,No,2,Completamente satisfecho
+1754438400,Vacunacion,57,96,2916,Eddi,1,3,4,3,Pesima,Si,5,Completamente satisfecho
+1789776000,Vacunacion,54,103,4122,Eddi,3,2,2,1,Pesimo,Si,4,Completamente satisfecho
+1734998400,Consulta,24,106,2746,Eddi,4,4,4,2,Regular,No,5,Completamente satisfecho
+1759363200,Vacunacion,12,63,3205,Eddi,1,1,5,1,Buena,Si,1,Completamente satisfecho
+1788566400,Desparasitacion,51,26,4576,Eddi,5,4,2,3,Buena,Si,5,Completamente satisfecho
+1750550400,Consulta,41,111,628,Eddi,3,3,3,4,Pesimo,No,2,Completamente satisfecho
+1789257600,Desparasitacion,34,152,1073,Eddi,3,2,1,1,Mala,No,5,Completamente satisfecho
+1749600000,Vacunacion,58,178,4965,Eddi,2,4,3,2,Pesimo,Si,4,Completamente satisfecho
+1727481600,Desparasitacion,10,169,3112,Eddi,3,2,4,2,Pesimo,Si,4,Completamente satisfecho
+1731024000,Desparasitacion,53,71,3098,Eddi,1,1,5,3,Regular,No,1,Completamente satisfecho
+1790208000,Desparasitacion,52,47,4794,Eddi,3,5,2,4,Mala,No,4,Completamente satisfecho
+1750464000,Cirugia,50,141,821,Eddi,3,2,2,4,Buena,Si,3,Completamente satisfecho
+1761436800,Consulta,27,100,2708,Eddi,1,5,5,3,Buena,Si,3,Completamente satisfecho
+1755302400,Desparasitacion,25,126,4146,Eddi,5,2,4,5,Pesimo,Si,2,Completamente satisfecho
+1713744000,Desparasitacion,54,164,3133,Eddi,4,5,2,1,Pesimo,Si,5,Completamente satisfecho
+1723507200,Vacunacion,27,36,1415,Eddi,5,4,5,3,Pesimo,No,2,Completamente satisfecho
+1742947200,Vacunacion,42,174,2709,Eddi,1,5,2,1,Regular,Si,4,Completamente satisfecho
+1774051200,Cirugia,15,175,1660,Eddi,2,1,2,1,Regular,No,4,Completamente satisfecho
+1720310400,Cirugia,18,125,3521,Eddi,3,4,5,2,Pesimo,Si,2,Completamente satisfecho
+1769817600,Vacunacion,15,21,1606,Eddi,3,2,4,4,Pesimo,Si,4,Completamente satisfecho
+1776038400,Desparasitacion,49,42,2434,Eddi,5,1,5,1,Pesimo,No,3,Completamente satisfecho
+1720656000,Consulta,13,31,2147,Eddi,3,4,3,1,Buena,Si,4,Completamente satisfecho
+1788134400,Cirugia,33,52,284,Eddi,5,3,4,3,Regular,No,1,Completamente satisfecho
+1779148800,Vacunacion,53,69,1138,Eddi,2,1,1,3,Pesima,Si,5,Completamente satisfecho
+1787443200,Consulta,36,97,520,Eddi,4,2,5,5,Buena,No,2,Completamente satisfecho
+1786924800,Cirugia,38,37,1156,Eddi,5,1,2,5,Regular,Si,5,Completamente satisfecho
+1773964800,Consulta,44,51,4840,Eddi,2,4,5,1,Mala,Si,3,Completamente satisfecho
+1751673600,Desparasitacion,25,74,1986,Eddi,3,2,4,3,Buena,No,2,Completamente satisfecho
+1726790400,Consulta,12,145,420,Eddi,2,3,5,2,Buena,Si,3,Completamente satisfecho
+1747353600,Consulta,30,64,2365,Eddi,2,1,1,2,Pesimo,No,4,Completamente satisfecho
+1787702400,Vacunacion,43,96,2060,Eddi,5,4,5,3,Regular,No,2,Completamente satisfecho
+1763337600,Vacunacion,41,172,4824,Eddi,5,4,2,1,Buena,Si,2,Completamente satisfecho
+1715299200,Desparasitacion,9,86,2073,Eddi,5,1,4,4,Pesima,Si,3,Completamente satisfecho
+1737676800,Consulta,15,27,637,Eddi,4,5,5,5,Pesima,Si,3,Completamente satisfecho
+1751241600,Consulta,58,138,1160,Eddi,5,2,1,2,Pesima,Si,1,Completamente satisfecho
+1743206400,Vacunacion,31,53,3668,Eddi,2,1,3,2,Regular,Si,5,Completamente satisfecho
+1725235200,Vacunacion,48,97,4050,Eddi,4,2,5,5,Regular,Si,2,Completamente satisfecho
+1713398400,Vacunacion,43,54,2331,Eddi,5,2,3,3,Regular,Si,5,Completamente satisfecho
+1784592000,Consulta,38,126,4003,Eddi,4,4,2,5,Buena,Si,4,Completamente satisfecho
+1734307200,Desparasitacion,9,105,662,Eddi,5,2,2,4,Buena,Si,3,Completamente satisfecho
+1728604800,Vacunacion,59,170,3698,Eddi,2,5,2,5,Regular,No,1,Completamente satisfecho
+1778630400,Vacunacion,41,69,4258,Eddi,5,1,4,3,Buena,No,2,Completamente satisfecho
+1749859200,Consulta,18,82,4650,Eddi,3,4,4,5,Buena,No,4,Completamente satisfecho
+1758326400,Cirugia,51,83,3918,Eddi,3,5,4,2,Pesima,Si,4,Completamente satisfecho
+1733529600,Desparasitacion,15,128,4993,Eddi,5,4,4,1,Mala,No,2,Completamente satisfecho
+1776902400,Cirugia,21,178,4167,Eddi,2,3,4,2,Mala,No,1,Completamente satisfecho
+1720224000,Cirugia,53,84,4747,Eddi,1,1,1,1,Buena,No,1,Completamente satisfecho
+1725753600,Consulta,8,27,993,Eddi,4,3,5,5,Pesimo,Si,2,Completamente satisfecho
+1773014400,Consulta,58,163,1560,Eddi,3,5,4,3,Pesimo,No,2,Completamente satisfecho
+1721865600,Desparasitacion,39,133,2453,Eddi,4,2,2,1,Pesima,No,5,Completamente satisfecho
+1766016000,Desparasitacion,16,140,3465,Eddi,1,3,5,5,Pesimo,No,5,Completamente satisfecho
+1772236800,Cirugia,11,160,1190,Eddi,5,4,2,5,Regular,No,3,Completamente satisfecho
+1728259200,Desparasitacion,26,106,1683,Eddi,2,2,2,3,Regular,Si,5,Completamente satisfecho
+1751155200,Desparasitacion,5,84,1842,Eddi,5,5,3,2,Buena,No,5,Completamente satisfecho
+1786060800,Consulta,22,178,867,Eddi,5,4,5,2,Buena,Si,3,Completamente satisfecho
+1713484800,Cirugia,42,98,2699,Eddi,5,3,4,5,Buena,No,1,Completamente satisfecho
+1777420800,Vacunacion,29,158,2417,Eddi,3,1,4,4,Buena,Si,5,Completamente satisfecho
+1753833600,Consulta,55,21,4463,Eddi,4,4,4,3,Buena,Si,2,Completamente satisfecho
+1759795200,Consulta,36,132,1678,Eddi,5,2,3,3,Mala,Si,3,Completamente satisfecho
+1736294400,Desparasitacion,9,105,2450,Eddi,4,3,4,4,Mala,No,2,Completamente satisfecho
+1760140800,Consulta,50,127,4143,Eddi,4,3,1,3,Buena,No,4,Completamente satisfecho
+1787875200,Desparasitacion,56,17,4168,Eddi,3,4,4,5,Mala,Si,1,Completamente satisfecho
+1774569600,Consulta,58,76,4849,Eddi,5,3,5,5,Mala,No,4,Completamente satisfecho
+1710547200,Vacunacion,5,81,4132,Eddi,4,3,1,5,Pesima,No,1,Completamente satisfecho
+1716508800,Desparasitacion,17,167,4009,Eddi,4,2,2,5,Regular,Si,4,Completamente satisfecho
+1727913600,Consulta,10,157,2140,Eddi,2,5,4,1,Pesimo,No,4,Completamente satisfecho
+1771891200,Consulta,38,25,1959,Eddi,5,1,2,5,Mala,Si,3,Completamente satisfecho
+1782259200,Vacunacion,18,72,4595,Eddi,2,5,3,5,Pesima,Si,5,Completamente satisfecho
+1756425600,Cirugia,11,134,3371,Eddi,5,3,3,4,Pesimo,No,2,Completamente satisfecho
+1706313600,Vacunacion,37,119,4033,Eddi,3,5,4,4,Pesimo,No,2,Completamente satisfecho
+1717718400,Consulta,12,154,3024,Eddi,2,4,3,5,Pesima,No,3,Completamente satisfecho
+1738972800,Desparasitacion,46,78,1148,Eddi,2,3,2,2,Buena,No,4,Completamente satisfecho
+1757203200,Cirugia,34,115,1039,Eddi,3,5,2,4,Regular,No,3,Completamente satisfecho
+1710460800,Consulta,8,47,1536,Eddi,5,3,2,4,Mala,Si,2,Completamente satisfecho
+1705881600,Consulta,34,157,701,Eddi,1,2,1,5,Pesima,Si,5,Completamente satisfecho
+1783296000,Desparasitacion,35,88,2830,Eddi,3,1,1,3,Pesimo,Si,4,Completamente satisfecho
+1769558400,Consulta,38,130,390,Eddi,2,1,4,2,Mala,Si,3,Completamente satisfecho
+1724371200,Desparasitacion,29,24,2064,Eddi,3,3,2,5,Pesimo,Si,3,Completamente satisfecho
+1729728000,Cirugia,35,58,4716,Eddi,5,5,5,5,Regular,No,2,Completamente satisfecho
+1769990400,Vacunacion,22,153,188,Eddi,4,3,1,2,Mala,No,5,Completamente satisfecho
+1710288000,Consulta,49,148,332,Eddi,4,2,4,3,Regular,Si,4,Completamente satisfecho
+1711238400,Desparasitacion,43,123,2793,Eddi,3,1,4,3,Pesimo,No,1,Completamente satisfecho
+1784505600,Desparasitacion,49,61,209,Eddi,2,2,3,1,Buena,Si,2,Completamente satisfecho
+1775433600,Cirugia,51,139,952,Eddi,4,2,3,1,Regular,Si,4,Completamente satisfecho
+1725494400,Consulta,17,73,721,Eddi,3,1,3,4,Pesima,No,4,Completamente satisfecho
+1726185600,Cirugia,22,175,4310,Eddi,4,1,5,3,Buena,Si,1,Completamente satisfecho
+1762214400,Vacunacion,51,98,1939,Eddi,2,4,2,5,Buena,No,4,Completamente satisfecho
+1739836800,Cirugia,42,79,1139,Eddi,3,3,5,5,Buena,No,1,Completamente satisfecho
+1773446400,Consulta,40,152,607,Eddi,3,5,3,5,Pesimo,No,5,Completamente satisfecho
+1761955200,Consulta,55,109,3755,Eddi,5,5,5,2,Buena,No,5,Completamente satisfecho
+1726272000,Vacunacion,51,41,2411,Eddi,1,2,1,2,Pesima,Si,5,Completamente satisfecho
+1754179200,Vacunacion,11,53,4698,Eddi,5,1,2,2,Pesimo,Si,4,Completamente satisfecho
+1781740800,Cirugia,21,133,2142,Eddi,2,1,3,2,Mala,Si,5,Completamente satisfecho
+1752537600,Cirugia,39,111,2850,Eddi,3,4,5,1,Pesimo,Si,2,Completamente satisfecho
+1786233600,Desparasitacion,20,139,938,Eddi,5,3,4,5,Pesima,Si,4,Completamente satisfecho
+1765670400,Desparasitacion,6,118,1104,Eddi,2,4,1,1,Regular,Si,5,Completamente satisfecho
+1714262400,Desparasitacion,55,40,1828,Eddi,4,1,4,2,Mala,No,5,Completamente satisfecho
+1726358400,Desparasitacion,40,20,3702,Eddi,4,5,3,1,Mala,No,3,Completamente satisfecho
+1757808000,Cirugia,44,99,985,Eddi,4,3,2,3,Pesima,No,5,Completamente satisfecho
+1735862400,Cirugia,59,117,1579,Eddi,2,4,5,2,Pesima,No,4,Completamente satisfecho
+1737158400,Consulta,39,48,695,Eddi,5,4,2,5,Regular,Si,3,Completamente satisfecho
+1752278400,Desparasitacion,57,170,4586,Eddi,1,5,3,2,Buena,No,1,Completamente satisfecho
+1705622400,Desparasitacion,29,13,419,Eddi,5,4,4,3,Buena,Si,5,Completamente satisfecho
+1725580800,Cirugia,24,81,1221,Eddi,5,1,4,3,Mala,No,1,Completamente satisfecho
+1721779200,Consulta,53,67,753,Eddi,3,5,5,5,Pesimo,Si,4,Completamente satisfecho
+1771200000,Desparasitacion,46,74,2884,Eddi,5,3,3,2,Pesimo,Si,1,Completamente satisfecho
+1754006400,Vacunacion,28,57,1850,Eddi,4,3,5,4,Mala,No,2,Completamente satisfecho
+1724025600,Desparasitacion,42,131,681,Eddi,1,5,5,3,Mala,Si,5,Completamente satisfecho
+1722556800,Cirugia,27,21,2709,Eddi,3,3,2,5,Mala,Si,4,Completamente satisfecho
+1787011200,Consulta,34,43,2274,Eddi,4,2,3,2,Mala,Si,1,Completamente satisfecho
+1742256000,Consulta,33,10,3858,Eddi,3,3,5,2,Pesimo,No,4,Completamente satisfecho
+1740009600,Consulta,27,132,985,Eddi,3,5,1,4,Pesimo,No,1,Completamente satisfecho
+1774483200,Consulta,39,143,4860,Eddi,2,1,1,2,Mala,No,4,Completamente satisfecho
+1729987200,Consulta,40,132,2340,Eddi,4,2,2,1,Buena,No,2,Completamente satisfecho
+1729641600,Vacunacion,55,128,393,Eddi,2,1,5,3,Regular,Si,2,Completamente satisfecho
+1747958400,Desparasitacion,22,56,1349,Eddi,2,5,3,3,Pesimo,No,5,Completamente satisfecho
+1737244800,Consulta,5,179,3040,Eddi,3,4,4,4,Regular,Si,2,Completamente satisfecho
+1789344000,Desparasitacion,53,144,1428,Eddi,4,5,4,5,Pesima,No,5,Completamente satisfecho
+1787356800,Cirugia,22,96,2498,Eddi,4,1,3,1,Pesima,Si,3,Completamente satisfecho
+1719532800,Cirugia,10,13,1333,Eddi,1,5,2,5,Regular,No,5,Completamente satisfecho
+1742688000,Vacunacion,31,130,1427,Eddi,4,2,4,3,Pesima,Si,2,Completamente satisfecho
+1730851200,Desparasitacion,10,81,2725,Eddi,5,1,3,1,Regular,No,4,Completamente satisfecho
+1747612800,Cirugia,16,123,1635,Eddi,4,5,4,3,Pesima,Si,5,Completamente satisfecho
+1737849600,Cirugia,41,30,1871,Eddi,4,5,1,1,Pesimo,No,1,Completamente satisfecho
+1717372800,Consulta,35,77,4551,Eddi,4,4,2,4,Buena,No,3,Completamente satisfecho
